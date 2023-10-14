@@ -73,9 +73,10 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/](http
 
 Chromium: [https://chrome.google.com/webstore/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe](https://chrome.google.com/webstore/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe)
 
-*Warning: the version uploaded in the store come with less filters and there's still a lot of work to catch up so is best if you follow the instruction on their [Github](https://github.com/FastForwardTeam/FastForward/blob/main/docs/INSTALLING.md) and install it manually, you can download it directly from [here](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip)*
+*Warning: the version uploaded in the store come with less filters and there's still a lot of work to catch up so is best if you follow the instruction on their [Github](https://github.com/FastForwardTeam/FastForward/blob/main/docs/INSTALLING.md) and install it manually, you can download the old version directly from here: [FastForward_chromium_0.2277.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/12907470/FastForward_chromium_0.2277.zip)*
 
-To install this extension on chromium browser manually you have first unpack the .zip file with softwares like Winrar, 7-zip, enable the developer options in the extension page and simply drag and drop the zip file under the extension page.
+
+To install this extension on chromium browser manually you have first enable the developer options in the extension page and simply drag and drop the zip file under the extension page.
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam)
 
@@ -91,7 +92,7 @@ Note: unpacked extension not have the ability to auto-update themself, once in a
 
 Chromium: [https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip)
 
-To install this extension on chromium browser manually enable the developer options in the extension and simply drag and drop the zip file under the extension page.
+To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatevely you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page
 
 Firefox: follow the instruction under their [Gitlab](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) page
 
