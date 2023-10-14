@@ -92,7 +92,7 @@ Note: unpacked extension not have the ability to auto-update themself, once in a
 
 Chromium: [https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip)
 
-To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatevely you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page
+To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page
 
 Firefox: follow the instruction under their [Gitlab](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) page
 
