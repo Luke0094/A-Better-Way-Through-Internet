@@ -81,7 +81,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam](https:
 
 *Warning: the version uploaded in the store come with less filters and there's still a lot of work to catch up so is best if you follow the instruction on their [Github](https://github.com/FastForwardTeam/FastForward/blob/main/docs/INSTALLING.md) and install it manually, you can download it directly from [here](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_firefox.zip)*
 
-Important: some filters had to be removed by complains like from Linkvertise, you can re-add them by going to the extension setting (blue icon) and copy/paste to the "Custom bypass" the following script (extract and open the file .txt): [Linkvertise bypass.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/12906653/Linkvertise.bypass.zip)
+**Important: some filters had to be removed by complains like from Linkvertise, you can re-add them by going to the extension setting (blue icon) and copy/paste to the "Custom bypass" the following script (extract and open the file .txt): [Linkvertise bypass.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/12906653/Linkvertise.bypass.zip)**
 
 Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234) for updates:
 
