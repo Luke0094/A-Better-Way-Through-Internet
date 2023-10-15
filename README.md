@@ -84,7 +84,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam](https:
 
 **Important: some filters had to be removed by complains like from Linkvertise, you can re-add them by going to the extension setting (blue icon) and copy/paste to the "Custom bypass" the following script (extract and open the file .txt): [Linkvertise bypass.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/12906653/Linkvertise.bypass.zip)**
 
-Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234) for updates:
+Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/FastForwardTeam/FastForward/) for updates:
 
 *This step will grand you the ability to skip various hosts limit like countdown on file hosts, skip paid shortcut, etc.*
 
