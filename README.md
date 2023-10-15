@@ -220,7 +220,7 @@ Chromium: [https://chrome.google.com/webstore/detail/steam-inventory-helper/cmea
 
 Firefox: NOT AVAILABLE, follow dev [website](https://steaminventoryhelper.com/)
 
-*This step will introduce to Steam more features about trades and currency**
+*This step will introduce to Steam more features about trades and currency*
 
 
 **CRUNCHYROLL**
