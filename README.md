@@ -7,7 +7,7 @@ This is the version 4 and probably final tutorial that will create a safe naviga
 > **0) Install your favorite Chromium browser (like, Brave, Ungoogled, Chrome, Vivaldi, etc.) or Firefox.**
 
 (I recommend [Brave Beta](https://brave.com/download-beta/), if you do so under settings/protection set the fingerprint to strict, eventually if you are not getting access to some websites you can always disable a specific one by clicking the orange lion head on the right of the url search bar,
-under settings/privacy you can also disable some annoyance feature like anonym stats. If you wish to use Android and you may want to use [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser), check for apk if is not avialible, for Android TV you most probably will need a usb mouse.)
+under settings/privacy you can also disable some annoyance feature like anonym stats. If you wish to use Android you may want to use [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser), check for apk if is not avialible, for Android TV you most probably will need a usb mouse.)
 
 Other than all the below steps will be a good point to block any 3rd party cookies from your browser (check your settings and search for Privacy and Security) and block any connection that not come with https.
 
