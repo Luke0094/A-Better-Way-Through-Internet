@@ -37,8 +37,6 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker](http
 
 You can downloading it from here (remember to extract): [20230822_172413_adg_ext_settings_4.2.151.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/12906650/20230822_172413_adg_ext_settings_4.2.151.zip)
 
-
-
 *This step will import custom settings and filters.*
 
 
@@ -50,15 +48,13 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://a
 
 2.5) Same as before click the black/gray icon in your extension bar (make sure it is visible), click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 
-You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2023-10-13T22-26-56-929Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/12906651/tampermonkey-backup-chrome-2023-10-13T22-26-56-929Z.zip)
-
-
+You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2023-10-24T16-53-33-653Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13121734/tampermonkey-backup-chrome-2023-10-24T16-53-33-653Z.zip)
 
 *This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "AdGuard Popup Blocker")*
 
 *What else is included:*
 
-*EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Remove Adblock Thing (for youtube, disabled due breaking layout, however working) - Simple YouTube Age Restriction Bypass*
+*EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list) - Simple YouTube Age Restriction Bypass*
 
 > **3) Install Privacy Badger**
 
