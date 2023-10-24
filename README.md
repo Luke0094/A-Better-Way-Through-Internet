@@ -15,7 +15,7 @@ Furthermore I can recommend you to use [https://presearch.com](https://presearch
 
 here you can find the "url query": https://presearch.com/search?q=%s
 
-Alternatively you can use a search engine based on SearXNG [https://etsi.me](https://etsi.me) and its "ulr query": https://etsi.me/search?q=%s
+Alternatively you can use a search engine based on SearXNG like [https://etsi.me](https://etsi.me) and here the "ulr query": https://etsi.me/search?q=%s
 
 Lastly if you still want to use your Google account (chrome, yt, drive, etc.) make sure to check the following link and disable everything you are not comfortable with:
 [https://myaccount.google.com/data-and-privacy](https://myaccount.google.com/data-and-privacy)
