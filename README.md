@@ -27,7 +27,7 @@ If you live in the EU make sure also to check those:
 [https://www.youronlinechoices.com](https://www.youronlinechoices.com)
 
 
-Btw do you know that your ISP can prevent you visiting certain website by blacklisting? To avoid this block you need to change your DNS, this can be done manually or by using some softwares, here is one exemple with DNS Jumper [DnsJumper 2.2.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13196421/DnsJumper.2.2.zip)
+Btw do you know that your ISP can prevent you from visiting certain websites by blacklisting? To avoid this block you need to change your DNS, this can be done manually or by using some softwares, here is one exemple with DNS Jumper [DnsJumper 2.2.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13196421/DnsJumper.2.2.zip)
 
 
 
