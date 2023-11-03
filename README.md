@@ -59,7 +59,7 @@ You can downloading it from here (remember to extract): [tampermonkey-backup-chr
 
 *What else is included:*
 
-*EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to puase AdGuard for youtube website) - Simple YouTube Age Restriction Bypass*
+*ADGaurd Extra - EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to puase AdGuard for youtube website) - Simple YouTube Age Restriction Bypass*
 
 > **3) Install Privacy Badger**
 
