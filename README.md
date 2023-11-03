@@ -87,7 +87,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam](https:
 
 Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/FastForwardTeam/FastForward/) for updates:
 
-*This step will grand you the ability to skip various hosts limit like countdown on file hosts, skip paid shortcut, etc.*
+*This step will grant you the ability to skip various hosts limit like countdown on file hosts, skip paid shortcut, etc.*
 
 > **5) Install Bypass Paywalls Clean:**
 
@@ -99,7 +99,7 @@ Firefox: follow the instruction under their [Gitlab](https://gitlab.com/magnolia
 
 Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234) for updates:
 
-*This step will grand you the ability to skip certain paywalls based on daily views limit and/or similar issues*
+*This step will grant you the ability to skip certain paywalls based on daily views limit and/or similar issues*
 
 
 All the steps below are totally optional but recommended for a better experience.
@@ -113,7 +113,7 @@ Chromium: [https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbko
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/darkreader](https://addons.mozilla.org/en-US/firefox/addon/darkreader)
 
-*This step will grand you the ability to set every website to a dark mode, please note that not all website will be showing correctly*
+*This step will grant you the ability to set every website to a dark mode, please note that not all website will be showing correctly*
 
 **CAPTCHA:**
 > **7) Noptcha:**
@@ -122,7 +122,7 @@ Chromium: [https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/d
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/noptcha](https://addons.mozilla.org/en-US/firefox/addon/noptcha)
 
-*This step will grand you the ability to auto-complete the captcha around the net automatically, you can cutomize the behavior under the extension options*
+*This step will grant you the ability to auto-complete the captcha around the net automatically, you can cutomize the behavior under the extension options*
 
 **VPN:**
 > **8) WorkingVPN:**
