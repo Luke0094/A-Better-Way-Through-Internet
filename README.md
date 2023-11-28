@@ -160,7 +160,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube](h
 
 *This step will introduce to Youtube various extra option of customization*
 
-*Here some custom settings that you can easily import (just copy and paste)* [yt enhancer.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492734/yt.enhancer.zip)
+*Here some custom settings that you can easily import (just copy and paste the string inside the .txt file and import it in the extension page)* [yt enhancer.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492734/yt.enhancer.zip)
 
 
 > **12) Ambient light for YouTube:**
@@ -171,7 +171,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtu
 
 *This step will introduce to Youtube better theater mode and ambient light*
 
-*Here some custom settings that you can easily import* [ambient-light-for-youtube-settings.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492685/ambient-light-for-youtube-settings.zip)
+*Here some custom settings that you can easily import (after excracting just click the extension icon and import the .json file* [ambient-light-for-youtube-settings.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492685/ambient-light-for-youtube-settings.zip)
 
 **Warning: my settings use OpenGL render (to be less heavy), in case you use Brave with strict fingerprint, click on the lion head in the top right corner and change the fingeprint settings to "block fingeprint (in the middle)" otherwise youtube can't read your gpu**
 
