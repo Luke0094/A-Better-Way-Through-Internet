@@ -1,4 +1,4 @@
-[yt enhancer.txt](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492730/yt.enhancer.txt)# A-Better-Way-Through-Internet
+# A-Better-Way-Through-Internet
 *Internet without harassment by ads company!*
 
 
