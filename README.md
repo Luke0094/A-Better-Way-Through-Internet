@@ -39,7 +39,8 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker](http
 
 1.5) Once installed go to the option by clicking the green shield icon in your extension bar (make sure is visible) and click "Import settings" (General Settings) and add the attachment below (adg_ext...).
 
-You can downloading it from here (remember to extract): [20230822_172413_adg_ext_settings_4.2.151.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/12906650/20230822_172413_adg_ext_settings_4.2.151.zip)
+You can downloading it from here (remember to extract): [20231206_181002_adg_ext_settings_4.2.228.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13589209/20231206_181002_adg_ext_settings_4.2.228.zip)
+
 
 *This step will import custom settings and filters.*
 
@@ -52,14 +53,15 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://a
 
 2.5) Same as before click the black/gray icon in your extension bar (make sure it is visible), click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 
-You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2023-11-03T22-34-03-996Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13255146/tampermonkey-backup-chrome-2023-11-03T22-34-03-996Z.zip)
+You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2023-12-06T17-06-45-293Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13589214/tampermonkey-backup-chrome-2023-12-06T17-06-45-293Z.zip)
+
 
 
 *This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "AdGuard Popup Blocker")*
 
 *What else is included:*
 
-*ADGaurd Extra - EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to puase AdGuard for youtube website) - Simple YouTube Age Restriction Bypass*
+*[Working] linkvertise and krnl bypasser - ADGaurd Extra - EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to puase AdGuard for youtube website) - Simple YouTube Age Restriction Bypass*
 
 > **3) Install Privacy Badger**
 
