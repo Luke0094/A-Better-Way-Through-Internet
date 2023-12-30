@@ -55,11 +55,12 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://a
 
 2.5) Same as before click the black/gray icon in your extension bar (make sure it is visible), click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 
-You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2023-12-06T17-06-45-293Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13589214/tampermonkey-backup-chrome-2023-12-06T17-06-45-293Z.zip)
+You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2023-12-30T21-20-29-703Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13799203/tampermonkey-backup-chrome-2023-12-30T21-20-29-703Z.zip)
 
 
 
-*This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "AdGuard Popup Blocker")*
+
+*This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "Ultra Popup Blocker")*
 
 *What else is included:*
 
