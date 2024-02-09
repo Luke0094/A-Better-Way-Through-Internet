@@ -65,7 +65,7 @@ You can downloading it from here (remember to extract): [tampermonkey-backup-chr
 
 *What else is included:*
 
-*[Working] linkvertise and krnl bypasser - ADGaurd Extra - EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus - Netflix UHD - Simple YouTube Age Restriction Bypass - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to puase AdGuard for youtube website)*
+*[Working] linkvertise and krnl bypasser - ADGaurd Extra - EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus - Netflix UHD - Simple YouTube Age Restriction Bypass - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to pause AdGuard for youtube website)*
 
 > **3) Install Privacy Badger**
 
