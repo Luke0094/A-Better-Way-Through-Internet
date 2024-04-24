@@ -39,6 +39,8 @@ Chromium: [https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnna
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker)
 
+*This step will add one of the best adbloker around to your searches.*
+
 1.5) Once installed go to the option by clicking the green shield icon in your extension bar (make sure is visible) and click "Import settings" (General Settings) and add the attachment below (adg_ext...).
 
 You can downloading it from here (remember to extract): [20231206_181002_adg_ext_settings_4.2.228.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13589209/20231206_181002_adg_ext_settings_4.2.228.zip)
@@ -52,6 +54,8 @@ You can downloading it from here (remember to extract): [20231206_181002_adg_ext
 Chromium: [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey)
+
+*This step will will allow you to install custom script to your browser.*
 
 2.5) Same as before click the black/gray icon in your extension bar (make sure it is visible), click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 
