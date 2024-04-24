@@ -4,7 +4,7 @@
 
 This is the version 4 and probably final tutorial that will create a safe navigation with no ads, privacy focus and no annoying stuff like cookies warning, it will include some part of the older tuto but lighter in ram consumption and with some more filters.
 
-> **0) Install your favorite Chromium browser (like, Brave, Ungoogled, Chrome, Vivaldi, etc.) or Firefox.**
+> **0) Install your favorite Chromium browser (like Brave, Ungoogled, Chrome, Vivaldi, etc.) or Firefox.**
 
 (I recommend [Brave Beta](https://brave.com/download-beta/), if you do so under settings/protection set the fingerprint to strict, eventually if you are not getting access to some websites you can always disable a specific one by clicking the orange lion head on the right of the url search bar,
 under settings/privacy you can also disable some annoyance feature like anonym stats.
@@ -13,7 +13,7 @@ If you wish to use Android you may want to use [Kiwi Browser](https://play.googl
 
 Other than all the below steps will be a good point to block any 3rd party cookies from your browser (check your settings and search for Privacy and Security) and block any connection that not come with https.
 
-Furthermore I can recommend you to use [https://presearch.com](https://presearch.com/)  as your default search engine Instead of Google (you don't need to sign up), 
+Furthermore I can recommend you to use [https://presearch.com](https://presearch.com/)  as your default search engine Instead of Google due better uncensored searches (you don't need to sign up), 
 
 here you can find the "url query": https://presearch.com/search?q=%s
 
