@@ -107,7 +107,7 @@ To install this extension on chromium browser manually you have first enable the
 
 Firefox: follow the instruction under their [Gitlab](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) page
 
-Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234) for updates:
+Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234) for updates
 
 *This step will grant you the ability to skip certain paywalls based on daily views limit and/or similar issues*
 
@@ -210,9 +210,20 @@ Firefox: NOT AVAILABLE, follow dev [Github](https://github.com/ephellon/twitch-t
 
 *This step will introduce to Twitch better controls over Twitch lives*
 
+> **16) TwitchNoSub:**
+
+Chromium: https://github.com/besuper/TwitchNoSub
+
+To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page
+
+Firefox: follow the instruction under their [Github](https://github.com/besuper/TwitchNoSub/)
+
+*This step will make you able to watch premium vod from twitch as free user*
+
+Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/besuper/TwitchNoSub/) for updates
 
 **INSTAGRAM**
-> **16) Controls for Instagram Videos:**
+> **17) Controls for Instagram Videos:**
 
 Chromium: [https://chrome.google.com/webstore/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn](https://chrome.google.com/webstore/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn)
 
@@ -222,7 +233,7 @@ Firefox: NOT AVAILABLE, follow dev [website](https://rehfeld.us/browser-extensio
 
 
 **STEAM**
-> **17) Augmented Steam:**
+> **18) Augmented Steam:**
 
 Chromium: [https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp](https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp)
 
@@ -231,7 +242,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/augmented-steam](https:
 *This step will introduce to Steam more features about bundles and currency over the world*
 
 
-> **18) Steam Inventory Helper:**
+> **19) Steam Inventory Helper:**
 
 Chromium: [https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl](https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl)
 
@@ -241,7 +252,7 @@ Firefox: NOT AVAILABLE, follow dev [website](https://steaminventoryhelper.com/)
 
 
 **CRUNCHYROLL**
-> **19) Improve Crunchyroll:**
+> **20) Improve Crunchyroll:**
 
 Chromium: [https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
 
@@ -250,7 +261,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll](ht
 *This step will introduce to Crunchyroll various extra option of customization and unlock some of premium features like 1080p view*
 
 **FLASH PLAYER**
-> **20) Rufle:**
+> **21) Rufle:**
 
 Chromium: [https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc](https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc)
 
