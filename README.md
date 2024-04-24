@@ -212,7 +212,7 @@ Firefox: NOT AVAILABLE, follow dev [Github](https://github.com/ephellon/twitch-t
 
 > **16) TwitchNoSub:**
 
-Chromium: https://github.com/besuper/TwitchNoSub
+Chromium: [https://github.com/besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub/releases)
 
 To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page
 
