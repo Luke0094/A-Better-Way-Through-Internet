@@ -61,15 +61,12 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://a
 
 You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2024-02-09T22-27-15-561Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/14226819/tampermonkey-backup-chrome-2024-02-09T22-27-15-561Z.zip)
 
-
-
-
-
 *This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "Ultra Popup Blocker")*
 
 *What else is included:*
 
 *[Working] linkvertise and krnl bypasser - ADGaurd Extra - EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus - Netflix UHD - Simple YouTube Age Restriction Bypass - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to pause AdGuard for youtube website)*
+
 
 > **3) Install Privacy Badger**
 
@@ -99,15 +96,16 @@ Note: unpacked extension not have the ability to auto-update themself, once in a
 
 *This step will grant you the ability to skip various hosts limit like countdown on file hosts, skip paid shortcut, etc.*
 
+
 > **5) Install Bypass Paywalls Clean:**
 
-Chromium: [https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip)
+Chromium: [https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest](https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest)
 
 To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page
 
-Firefox: follow the instruction under their [Gitlab](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) page
+Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) for updates
 
-Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234) for updates
+Firefox: follow the instruction under their [Github](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) page
 
 *This step will grant you the ability to skip certain paywalls based on daily views limit and/or similar issues*
 
@@ -125,6 +123,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/darkreader](https://add
 
 *This step will grant you the ability to set every website to a dark mode, please note that not all website will be showing correctly*
 
+
 **CAPTCHA:**
 > **7) Noptcha:**
 
@@ -134,6 +133,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/noptcha](https://addons
 
 *This step will grant you the ability to auto-complete the captcha around the net automatically, you can cutomize the behavior under the extension options*
 
+
 **VPN:**
 > **8) WorkingVPN:**
 
@@ -142,6 +142,7 @@ Chromium: [https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/m
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/](https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/)
 
 *This step will permit you to use a free vpn service without limit, take note that this is not the fastest nor the most secure but will work*
+
 
 **YOUTUBE**
 > **9) SponsorBlock for Youtube:**
@@ -185,6 +186,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtu
 
 **Warning: my settings use OpenGL render (to be less heavy), in case you use Brave with strict fingerprint, click on the lion head in the top right corner and change the fingeprint settings to "block fingeprint (in the middle)" otherwise it will be reverted to Direct3d**
 
+
 > **13) Better YouTube Shorts:**
 
 Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg)
@@ -192,6 +194,7 @@ Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehoh
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts](https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts)
 
 *This step will introduce to Youtube better controls over YT short*
+
 
 **TWITCH**
 > **14) Previews (For TTV & YT):**
@@ -202,6 +205,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv](https
 
 *This step will introduce to Twitch and partially Youtube better controls over lives*
 
+
 > **15) TTV Tools (complementary - optional)**
 
 Chromium: [https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd](https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd)
@@ -209,6 +213,7 @@ Chromium: [https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppb
 Firefox: NOT AVAILABLE, follow dev [Github](https://github.com/ephellon/twitch-tools)
 
 *This step will introduce to Twitch better controls over Twitch lives*
+
 
 > **16) TwitchNoSub:**
 
@@ -221,6 +226,7 @@ Firefox: follow the instruction under their [Github](https://github.com/besuper/
 *This step will make you able to watch premium vod from twitch as free user*
 
 Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/besuper/TwitchNoSub/) for updates
+
 
 **INSTAGRAM**
 > **17) Controls for Instagram Videos:**
@@ -259,6 +265,7 @@ Chromium: [https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjh
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll)
 
 *This step will introduce to Crunchyroll various extra option of customization and unlock some of premium features like 1080p view*
+
 
 **FLASH PLAYER**
 > **21) Rufle:**
