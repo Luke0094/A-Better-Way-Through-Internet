@@ -6,7 +6,7 @@ This is the version 4 and probably final tutorial that will create a safe naviga
 
 > **0) Install your favorite Chromium browser (like Brave, Ungoogled, Chrome, Vivaldi, etc.) or Firefox.**
 
-(I recommend [Brave Beta](https://brave.com/download-beta/), if you do so under settings/protection set the fingerprint to strict, eventually if you are not getting access to some websites you can always disable a specific one by clicking the orange lion head on the right of the url search bar,
+(I recommend [Brave Beta](https://brave.com/download-beta/), if you do so under settings/protection set the fingerprint to strict (this choice is no longer available), eventually if you are not getting access to some websites you can always disable a specific one by clicking the orange lion head on the right of the url search bar,
 under settings/privacy you can also disable some annoyance feature like anonym stats.
 
 If you wish to use Android you may want to use [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser), check for apk if is not available, for Android TV you most probably will need a usb mouse.)
@@ -39,7 +39,7 @@ Chromium: [https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnna
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker)
 
-*This step will add one of the best adbloker around to your searches.*
+*This step will add one of the best adblocker around to your searches.*
 
 1.5) Once installed go to the option by clicking the green shield icon in your extension bar (make sure is visible) and click "Import settings" (General Settings) and add the attachment below (adg_ext...).
 
