@@ -59,13 +59,14 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://a
 
 2.5) Same as before click the black/gray icon in your extension bar (make sure it is visible), click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 
-You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2024-02-09T22-27-15-561Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/14226819/tampermonkey-backup-chrome-2024-02-09T22-27-15-561Z.zip)
+You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2024-05-15T02-59-26-314Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/15315741/tampermonkey-backup-chrome-2024-05-15T02-59-26-314Z.zip)
+
 
 *This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "Ultra Popup Blocker")*
 
 *What else is included:*
 
-*[Working] linkvertise and krnl bypasser - ADGaurd Extra - EmuParadise Download Workaround - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus - Netflix UHD - Simple YouTube Age Restriction Bypass - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to pause AdGuard for youtube website)*
+*[Working] linkvertise and krnl bypasser - ADGaurd Extra - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus (disabled) - Netflix UHD (disabled) - Simple YouTube Age Restriction Bypass - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to pause AdGuard for youtube website)*
 
 
 > **3) Install Privacy Badger**
