@@ -168,11 +168,10 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtu
 
 *Here some custom settings that you can easily import (after excracting just click the extension icon and import the .json file)* [ambient-light-for-youtube-settings.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492685/ambient-light-for-youtube-settings.zip)
 
-**Warning: my settings use OpenGL render (to be less heavy), in case you use Brave with strict fingerprint, click on the lion head in the top right corner and change the fingeprint settings to "block fingeprint (in the middle)" otherwise it will be reverted to Direct3d.**
-
 
 > **12) Better YouTube Shorts:**
 (currently this extension is outdated due youtube internal changes, some stuff will still works others not)
+
 Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg)
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts](https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts)
