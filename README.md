@@ -64,12 +64,11 @@ You can downloading it from here (remember to extract): [tampermonkey-backup-chr
 
 *This step will import various user scripts such a " Ultra Popup Blocker" and few other useful script*
 
-**Known bugs: if you want to download files from Google Drive click the tampermoneky icon, click on Ultra Popup Blocker and select "exclude drive.google.com"**
-
 *What else is included:*
 
 *ADGaurd Extra - Bypass All Shortlinks Debloated - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus (disabled) - Netflix UHD (disabled) - Simple YouTube Age Restriction Bypass*
 
+**Known bugs: if you want to download files from Google Drive click the tampermoneky icon, click on Ultra Popup Blocker and select "exclude drive.google.com"**
 
 > **3) Install Privacy Badger**
 
