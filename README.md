@@ -170,7 +170,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtu
 
 
 > **12) Better YouTube Shorts:**
-(currently this extension is outdated due youtube internal changes, some stuff will still works others not)
+(Currently this extension is outdated due youtube internal changes, some stuff will still works others not)
 
 Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg)
 
