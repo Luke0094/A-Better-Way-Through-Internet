@@ -2,7 +2,7 @@
 *Internet without harassment by ads company!*
 
 
-This is the version 4 and probably final tutorial that will create a safe navigation with no ads, privacy focus and no annoying stuff like cookies warning, it will include some part of the older tuto but lighter in ram consumption and with some more filters.
+This is the version **4.2** and probably final tutorial that will create a safe navigation with no ads, privacy focus and no annoying stuff like cookies warning, it will include some part of the older tuto but lighter in ram consumption and with some more filters.
 
 > **0) Install your favorite Chromium browser (like Brave, Ungoogled, Chrome, Vivaldi, etc.) or Firefox.**
 
@@ -43,7 +43,8 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker](http
 
 1.5) Once installed go to the option by clicking the green shield icon in your extension bar (make sure is visible) and click "Import settings" (General Settings) and add the attachment below (adg_ext...).
 
-You can downloading it from here (remember to extract): [20231206_181002_adg_ext_settings_4.2.228.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13589209/20231206_181002_adg_ext_settings_4.2.228.zip)
+You can downloading it from here (remember to extract): [20240619_152432_adg_ext_settings_4.3.53.zip](https://github.com/user-attachments/files/15901576/20240619_152432_adg_ext_settings_4.3.53.zip)
+
 
 
 *This step will import custom settings and filters.*
@@ -59,14 +60,13 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://a
 
 2.5) Same as before click the black/gray icon in your extension bar (make sure it is visible), click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 
-You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2024-05-15T02-59-26-314Z.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/15315741/tampermonkey-backup-chrome-2024-05-15T02-59-26-314Z.zip)
+You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip](https://github.com/user-attachments/files/15901739/tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip)
 
-
-*This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "Ultra Popup Blocker")*
+*This step will import various user scripts such a "Pop up blocker" and few other useful script*
 
 *What else is included:*
 
-*[Working] linkvertise and krnl bypasser - ADGaurd Extra - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus (disabled) - Netflix UHD (disabled) - Simple YouTube Age Restriction Bypass - YouTube Anti-AdBlock Bypass via YouTube Enhancer (disabled but you can turn it on from the list, if you do so you probably will need to pause AdGuard for youtube website)*
+*ADGaurd Extra - Bypass All Shortlinks Debloated - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus (disabled) - Netflix UHD (disabled) - Simple YouTube Age Restriction Bypass*
 
 
 > **3) Install Privacy Badger**
@@ -78,27 +78,12 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/](http
 *This step will increase your rate of blocked trackers, is a bit redundant with AdGuard for most of the time but will be useful if for whatever reason you have to disable your adblocker*
 
 
-> **4) Install FastForward:**
+All the steps below are totally optional but recommended for a better experience.
+-
 
-Chromium: [https://chrome.google.com/webstore/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe](https://chrome.google.com/webstore/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe)
-
-*Warning: the version uploaded in the store come with less filters and there's still a lot of work to catch up so is best if you follow the instruction on their [Github](https://github.com/FastForwardTeam/FastForward/blob/main/docs/INSTALLING.md) and install it manually, you can download the old version directly from [here](https://github.com/FastForwardTeam/FastForward/releases/download/manifest-v2-release/fastforward-chromium.zip) or check the previous non-dev version here: [FastForward_chromium_0.2277.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/12907470/FastForward_chromium_0.2277.zip)*
-
-
-To install this extension on chromium browser manually you have first enable the developer options in the extension page and simply drag and drop the zip file under the extension page.
-
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam)
-
-*Warning: the version uploaded in the store come with less filters and there's still a lot of work to catch up so is best if you follow the instruction on their [Github](https://github.com/FastForwardTeam/FastForward/blob/main/docs/INSTALLING.md) and install it manually, you can download it directly from [here](https://github.com/FastForwardTeam/FastForward/releases/download/manifest-v2-release/fastforward-firefox.zip)*
-
-**Important: some filters had to be removed by complains like from Linkvertise, you can re-add them by going to the extension setting (blue icon) and copy/paste to the "Custom bypass" the following script (extract and open the file .txt): [Linkvertise bypass.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/12906653/Linkvertise.bypass.zip)**
-
-Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/FastForwardTeam/FastForward/) for updates:
-
-*This step will grant you the ability to skip various hosts limit like countdown on file hosts, skip paid shortcut, etc.*
-
-
-> **5) Install Bypass Paywalls Clean:**
+**Paywalls**
+> **4) Bypass Paywalls Clean:**
+(This step is marked as optional due filters already included inside the AdGuard config, it will however useful if you want to have the full list and/or add custom filters)
 
 Chromium: [https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest](https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest)
 
@@ -111,12 +96,8 @@ Firefox: follow the instruction under their [Github](https://github.com/bpc-clon
 *This step will grant you the ability to skip certain paywalls based on daily views limit and/or similar issues*
 
 
-All the steps below are totally optional but recommended for a better experience.
--
-
-
 **Dark Mode**
-> **6) Dark Reader:**
+> **5) Dark Reader:**
 
 Chromium: [https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
@@ -126,7 +107,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/darkreader](https://add
 
 
 **CAPTCHA:**
-> **7) Noptcha:**
+> **6) Noptcha:**
 
 Chromium: [https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo](https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo)
 
@@ -136,7 +117,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/noptcha](https://addons
 
 
 **VPN:**
-> **8) WorkingVPN:**
+> **7) WorkingVPN:**
 
 Chromium: [https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/mhngpdlhojliikfknhfaglpnddniijfh](https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/mhngpdlhojliikfknhfaglpnddniijfh)
 
@@ -146,7 +127,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that
 
 
 **YOUTUBE**
-> **9) SponsorBlock for Youtube:**
+> **8) SponsorBlock for Youtube:**
 
 Chromium: [https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
 
@@ -155,7 +136,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/sponsorblock](https://a
 *This step will flag portions of certain YT videos with sponsor materials and grand you the ability to skip them automatically*
 
 
-> **10) Return YouTube Dislike:**
+> **9) Return YouTube Dislike:**
 
 Chromium: [https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
 
@@ -164,7 +145,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes
 *This step will restore the count of dislike on YT videos*
 
 
-> **11) Install Enhancer for YouTube:**
+> **10) Install Enhancer for YouTube:**
 
 Chromium: [https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)
 
@@ -175,7 +156,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube](h
 *Here some custom settings that you can easily import (just copy and paste the string inside the .txt file and import it in the extension page)* [yt enhancer.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492734/yt.enhancer.zip)
 
 
-> **12) Ambient light for YouTube:**
+> **11) Ambient light for YouTube:**
 
 Chromium: [https://chrome.google.com/webstore/detail/ambient-light-for-youtube/paponcgjfojgemddooebbgniglhkajkj](https://chrome.google.com/webstore/detail/ambient-light-for-youtube/paponcgjfojgemddooebbgniglhkajkj)
 
@@ -188,7 +169,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtu
 **Warning: my settings use OpenGL render (to be less heavy), in case you use Brave with strict fingerprint, click on the lion head in the top right corner and change the fingeprint settings to "block fingeprint (in the middle)" otherwise it will be reverted to Direct3d**
 
 
-> **13) Better YouTube Shorts:**
+> **12) Better YouTube Shorts:**
 
 Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg)
 
@@ -198,7 +179,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts](
 
 
 **TWITCH**
-> **14) Previews (For TTV & YT):**
+> **13) Previews (For TTV & YT):**
 
 Chromium: [https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah](https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah)
 
@@ -207,7 +188,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv](https
 *This step will introduce to Twitch and partially Youtube better controls over lives*
 
 
-> **15) TTV Tools (complementary - optional)**
+> **14) TTV Tools (complementary - optional)**
 
 Chromium: [https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd](https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd)
 
@@ -216,7 +197,7 @@ Firefox: NOT AVAILABLE, follow dev [Github](https://github.com/ephellon/twitch-t
 *This step will introduce to Twitch better controls over Twitch lives*
 
 
-> **16) TwitchNoSub:**
+> **15) TwitchNoSub:**
 
 Chromium: [https://github.com/besuper/TwitchNoSub/releases](https://github.com/besuper/TwitchNoSub/releases)
 
@@ -230,7 +211,7 @@ Note: unpacked extension not have the ability to auto-update themself, once in a
 
 
 **INSTAGRAM**
-> **17) Controls for Instagram Videos:**
+> **16) Controls for Instagram Videos:**
 
 Chromium: [https://chrome.google.com/webstore/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn](https://chrome.google.com/webstore/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn)
 
@@ -240,7 +221,7 @@ Firefox: NOT AVAILABLE, follow dev [website](https://rehfeld.us/browser-extensio
 
 
 **STEAM**
-> **18) Augmented Steam:**
+> **17) Augmented Steam:**
 
 Chromium: [https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp](https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp)
 
@@ -249,7 +230,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/augmented-steam](https:
 *This step will introduce to Steam more features about bundles and currency over the world*
 
 
-> **19) Steam Inventory Helper:**
+> **18) Steam Inventory Helper:**
 
 Chromium: [https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl](https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl)
 
@@ -259,7 +240,7 @@ Firefox: NOT AVAILABLE, follow dev [website](https://steaminventoryhelper.com/)
 
 
 **CRUNCHYROLL**
-> **20) Improve Crunchyroll:**
+> **19) Improve Crunchyroll:**
 
 Chromium: [https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
 
@@ -269,7 +250,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll](ht
 
 
 **FLASH PLAYER**
-> **21) Rufle:**
+> **20) Rufle:**
 
 Chromium: [https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc](https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc)
 
