@@ -83,6 +83,7 @@ All the steps below are totally optional but recommended for a better experience
 
 **Paywalls**
 > **4) Bypass Paywalls Clean:**
+
 (This step is marked as optional due filters already included inside the AdGuard config, it will however useful if you want to have the full list and/or add custom filters)
 
 Chromium: [https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest](https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest)
