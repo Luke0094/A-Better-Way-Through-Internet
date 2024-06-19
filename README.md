@@ -62,13 +62,13 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://a
 
 You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip](https://github.com/user-attachments/files/15901739/tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip)
 
-*This step will import various user scripts such a " Ultra Popup Blocker" and few other useful script*
+*This step will import various user scripts such a " Ultra Popup Blocker" and few other useful script.*
 
 *What else is included:*
 
 *ADGaurd Extra - Bypass All Shortlinks Debloated - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus (disabled) - Netflix UHD (disabled) - Simple YouTube Age Restriction Bypass*
 
-**Known bugs: if you want to download files from Google Drive click the tampermoneky icon, click on Ultra Popup Blocker and select "exclude drive.google.com"**
+**Known bugs: if you want to download files from Google Drive click the tampermoneky icon, click on Ultra Popup Blocker and select "exclude drive.google.com".**
 
 > **3) Install Privacy Badger**
 
@@ -76,7 +76,7 @@ Chromium: [https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdh
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 
-*This step will increase your rate of blocked trackers, is a bit redundant with AdGuard for most of the time but will be useful if for whatever reason you have to disable your adblocker*
+*This step will increase your rate of blocked trackers, is a bit redundant with AdGuard for most of the time but will be useful if for whatever reason you have to disable your adblocker.*
 
 
 All the steps below are totally optional but recommended for a better experience.
@@ -85,7 +85,7 @@ All the steps below are totally optional but recommended for a better experience
 **Paywalls**
 > **4) Bypass Paywalls Clean:**
 
-(This step is marked as optional due filters already included inside the AdGuard config, it will however useful if you want to have the full list and/or add custom filters)
+(This step is marked as optional due filters already included inside the AdGuard config, it will however be useful in case you want to have the full list and/or add custom filters)
 
 Chromium: [https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest](https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest)
 
@@ -95,7 +95,7 @@ Note: unpacked extension not have the ability to auto-update themself, once in a
 
 Firefox: follow the instruction under their [Github](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) page
 
-*This step will grant you the ability to skip certain paywalls based on daily views limit and/or similar issues*
+*This step will grant you the ability to skip certain paywalls based on daily views limit and/or similar issues.*
 
 
 **Dark Mode**
@@ -105,7 +105,7 @@ Chromium: [https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbko
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/darkreader](https://addons.mozilla.org/en-US/firefox/addon/darkreader)
 
-*This step will grant you the ability to set every website to a dark mode, please note that not all website will be showing correctly*
+*This step will grant you the ability to set every website to a dark mode, please note that not all website will be showing correctly.*
 
 
 **CAPTCHA:**
@@ -115,7 +115,7 @@ Chromium: [https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/d
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/noptcha](https://addons.mozilla.org/en-US/firefox/addon/noptcha)
 
-*This step will grant you the ability to auto-complete the captcha around the net automatically, you can cutomize the behavior under the extension options*
+*This step will grant you the ability to auto-complete the captcha around the net automatically, you can cutomize the behavior under the extension options.*
 
 
 **VPN:**
@@ -125,7 +125,7 @@ Chromium: [https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/m
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/](https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/)
 
-*This step will permit you to use a free vpn service without limit, take note that this is not the fastest nor the most secure but will work*
+*This step will permit you to use a free vpn service without limit, take note that this is not the fastest nor the most secure but will work.*
 
 
 **YOUTUBE**
@@ -135,7 +135,7 @@ Chromium: [https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mn
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/sponsorblock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock)
 
-*This step will flag portions of certain YT videos with sponsor materials and grand you the ability to skip them automatically*
+*This step will flag portions of certain YT videos with sponsor materials and grand you the ability to skip them automatically.*
 
 
 > **9) Return YouTube Dislike:**
@@ -144,7 +144,7 @@ Chromium: [https://chrome.google.com/webstore/detail/return-youtube-dislike/gebb
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes)
 
-*This step will restore the count of dislike on YT videos*
+*This step will restore the count of dislike on YT videos.*
 
 
 > **10) Install Enhancer for YouTube:**
@@ -153,7 +153,7 @@ Chromium: [https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpc
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube)
 
-*This step will introduce to Youtube various extra option of customization*
+*This step will introduce to Youtube various extra option of customization.*
 
 *Here some custom settings that you can easily import (just copy and paste the string inside the .txt file and import it in the extension page)* [yt enhancer.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492734/yt.enhancer.zip)
 
@@ -164,20 +164,20 @@ Chromium: [https://chrome.google.com/webstore/detail/ambient-light-for-youtube/p
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtube](https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtube)
 
-*This step will introduce to Youtube better theater mode and ambient light*
+*This step will introduce to Youtube better theater mode and ambient light.*
 
 *Here some custom settings that you can easily import (after excracting just click the extension icon and import the .json file)* [ambient-light-for-youtube-settings.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492685/ambient-light-for-youtube-settings.zip)
 
-**Warning: my settings use OpenGL render (to be less heavy), in case you use Brave with strict fingerprint, click on the lion head in the top right corner and change the fingeprint settings to "block fingeprint (in the middle)" otherwise it will be reverted to Direct3d**
+**Warning: my settings use OpenGL render (to be less heavy), in case you use Brave with strict fingerprint, click on the lion head in the top right corner and change the fingeprint settings to "block fingeprint (in the middle)" otherwise it will be reverted to Direct3d.**
 
 
 > **12) Better YouTube Shorts:**
-
+(currently this extension is outdated due youtube internal changes, some stuff will still works others not)
 Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg)
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts](https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts)
 
-*This step will introduce to Youtube better controls over YT short*
+*This step will introduce to Youtube better controls over YT short.*
 
 
 **TWITCH**
@@ -187,7 +187,7 @@ Chromium: [https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiin
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv](https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv)
 
-*This step will introduce to Twitch and partially Youtube better controls over lives*
+*This step will introduce to Twitch and partially Youtube better controls over lives.*
 
 
 > **14) TTV Tools (complementary - optional)**
@@ -196,20 +196,20 @@ Chromium: [https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppb
 
 Firefox: NOT AVAILABLE, follow dev [Github](https://github.com/ephellon/twitch-tools)
 
-*This step will introduce to Twitch better controls over Twitch lives*
+*This step will introduce to Twitch better controls over Twitch lives.*
 
 
 > **15) TwitchNoSub:**
 
 Chromium: [https://github.com/besuper/TwitchNoSub/releases](https://github.com/besuper/TwitchNoSub/releases)
 
-To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page
+To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page.
 
 Firefox: follow the instruction under their [Github](https://github.com/besuper/TwitchNoSub/)
 
-*This step will make you able to watch premium vod from twitch as free user*
+*This step will make you able to watch premium vod from twitch as free user.*
 
-Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/besuper/TwitchNoSub/) for updates
+Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/besuper/TwitchNoSub/) for updates.
 
 
 **INSTAGRAM**
@@ -219,7 +219,7 @@ Chromium: [https://chrome.google.com/webstore/detail/controls-for-instagram-vi/e
 
 Firefox: NOT AVAILABLE, follow dev [website](https://rehfeld.us/browser-extensions/controls-for-instagram/)
 
-*This step will introduce to Instagram better controls over reels*
+*This step will introduce to Instagram better controls over reels.*
 
 
 **STEAM**
@@ -229,7 +229,7 @@ Chromium: [https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlen
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/augmented-steam](https://addons.mozilla.org/en-US/firefox/addon/augmented-steam)
 
-*This step will introduce to Steam more features about bundles and currency over the world*
+*This step will introduce to Steam more features about bundles and currency over the world.*
 
 
 > **18) Steam Inventory Helper:**
@@ -238,7 +238,7 @@ Chromium: [https://chrome.google.com/webstore/detail/steam-inventory-helper/cmea
 
 Firefox: NOT AVAILABLE, follow dev [website](https://steaminventoryhelper.com/)
 
-*This step will introduce to Steam more features about trades and currency*
+*This step will introduce to Steam more features about trades and currency.*
 
 
 **CRUNCHYROLL**
@@ -248,7 +248,7 @@ Chromium: [https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjh
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll)
 
-*This step will introduce to Crunchyroll various extra option of customization and unlock some of premium features like 1080p view*
+*This step will introduce to Crunchyroll various extra option of customization and unlock some of premium features like 1080p view.*
 
 
 **FLASH PLAYER**
@@ -258,7 +258,7 @@ Chromium: [https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfke
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs](https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs)
 
-*This step will restore the possibility to play flash content on your browser*
+*This step will restore the possibility to play flash content on your browser.*
 
 
 ***Enjoy the freedom of internet!***
