@@ -64,7 +64,7 @@ You can downloading it from here (remember to extract): [tampermonkey-backup-chr
 
 *This step will import various user scripts such a " Ultra Popup Blocker" and few other useful script*
 
-**Known bugs: if you want to download files from Google Drive click the tampermoneky icon, click on Ultra Popup Blocker and select "excude drive.google.com"**
+**Known bugs: if you want to download files from Google Drive click the tampermoneky icon, click on Ultra Popup Blocker and select "exclude drive.google.com"**
 
 *What else is included:*
 
