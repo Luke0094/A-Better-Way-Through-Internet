@@ -85,7 +85,7 @@ All the steps below are totally optional but recommended for a better experience
 **Paywalls**
 > **4) Bypass Paywalls Clean:**
 
-(This step is marked as optional due filters already included inside the AdGuard config, it will however be useful in case you want to have the full list and/or add custom filters)
+*(This step is marked as optional due filters already included inside the AdGuard config, it will however be useful in case you want to have the full list and/or add custom filters)*
 
 Chromium: [https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest](https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest)
 
@@ -170,7 +170,8 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtu
 
 
 > **12) Better YouTube Shorts:**
-(Currently this extension is outdated due youtube internal changes, some stuff will still works others not)
+
+*(Currently this extension is outdated due youtube internal changes, some stuff will still works others not)*
 
 Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg)
 
