@@ -56,13 +56,13 @@ Chromium: [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkf
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey)
 
-*This step will will allow you to install custom script to your browser.*
+*This step will will allow you to install custom scripts to your browser.*
 
 2.5) Same as before click the black/gray icon in your extension bar (make sure it is visible), click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 
 You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip](https://github.com/user-attachments/files/15901739/tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip)
 
-*This step will import various user scripts such as "Ultra Popup Blocker" and few other useful scripts.*
+*This step will import various user scripts such as "Ultra Popup Blocker" and few other useful ones.*
 
 *What else is included:*
 
