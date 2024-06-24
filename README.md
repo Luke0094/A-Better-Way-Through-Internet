@@ -236,7 +236,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/augmented-steam](https:
 
 **WARNING:** *The chrome extension is requiring way too much auth to work, probably has been breached*
 
-Chromium: [https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl](https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl)
+Chromium: *removed due suspicious behavior*
 
 Firefox: NOT AVAILABLE, follow dev [website](https://steaminventoryhelper.com/)
 
