@@ -72,7 +72,7 @@ You can downloading it from here (remember to extract): [tampermonkey-backup-chr
   <summary>Known bugs: </summary>
    Some website that depend from pop ups (usually from Google) may not  work correctly with Ultra Popup Blocker enabled (the pop up warning is half hidden), here a list of what I've found out and how to fix:
   
-  The easier solution is to click the tampermoneky icon, click on Ultra Popup Blocker and select "exclude" a certain host, such as:
+  The easier solution is to click the tampermoneky icon when you are on the problematic page, click on Ultra Popup Blocker and select "exclude" a certain host, such as:
   
 Google Drive: "exclude drive.google.com"
 
