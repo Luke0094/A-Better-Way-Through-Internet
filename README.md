@@ -96,7 +96,7 @@ All the steps below are totally optional but recommended for a better experience
 
 *(This step is marked as optional due filters already included inside the AdGuard config, it will however be useful in case you want to have the full list and/or add custom filters)*
 
-Chromium: [https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest](https://github.com/bpc-clone/bypass-paywalls-chrome-clean/releases/tag/latest)
+Chromium: [https://github.com/bpc-clone/bpc_updates/releases/tag/latest](https://github.com/bpc-clone/bpc_updates/releases/tag/latest)
 
 To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page
 
