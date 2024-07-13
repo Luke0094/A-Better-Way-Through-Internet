@@ -77,6 +77,8 @@ You can downloading it from here (remember to extract): [tampermonkey-backup-chr
 Google Drive: "exclude drive.google.com"
 
 Google Classroom: "exclude classroom.google.com"
+
+Google Remote Desktop "exclude remotedesktop.google.com"
 </details>
 
 > **3) Install Privacy Badger**
