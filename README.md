@@ -79,6 +79,8 @@ Google Drive: "exclude drive.google.com"
 Google Classroom: "exclude classroom.google.com"
 
 Google Remote Desktop "exclude remotedesktop.google.com"
+
+Any coupons website that will input pop ups before showing the code
 </details>
 
 > **3) Install Privacy Badger**
