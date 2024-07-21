@@ -89,7 +89,7 @@ Chromium: [https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdh
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 
-**NOTE: login with socials credentials (google, apple, etc.) are automatically blocked by this extension, if you wish to enable it just click on the extension incon (the skunk one) and allow a specific host (like "accounts.google.com").**
+**NOTE: login with social credentials (google, apple, etc.) are automatically blocked by this extension, if you wish to enable it, while in that specific page (like twitter) just click on the extension incon (the skunk one) and allow a specific host (like "accounts.google.com").**
 
 *This step will increase your rate of blocked trackers, is a bit redundant with AdGuard for most of the time but will be useful if for whatever reason you have to disable your adblocker.*
 
