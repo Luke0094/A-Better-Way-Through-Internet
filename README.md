@@ -80,7 +80,7 @@ Google Classroom: "exclude classroom.google.com"
 
 Google Remote Desktop "exclude remotedesktop.google.com"
 
-Any coupons website that will input pop ups before showing the code
+Any coupons website that will input pop ups before showing the code (you might want to just refresh the page there, otherwise your cookies will be injected with ref codes)
 </details>
 
 > **3) Install Privacy Badger**
