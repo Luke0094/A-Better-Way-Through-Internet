@@ -170,7 +170,8 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube](h
 
 *This step will introduce to Youtube various extra option of customization.*
 
-*Here some custom settings that you can easily import (just copy and paste the string inside the .txt file and import it in the extension page)* [yt enhancer.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492734/yt.enhancer.zip)
+*Here some custom settings that you can easily import (just copy and paste the string inside the .txt file and import it in the extension page)* [yt.enhancer.zip](https://github.com/user-attachments/files/16383966/yt.enhancer.zip)
+
 
 
 > **11) Ambient light for YouTube:**
