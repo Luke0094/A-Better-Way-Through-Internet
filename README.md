@@ -126,6 +126,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/darkreader](https://add
 **CAPTCHA:**
 > **6) Noptcha:**
 
+*(Currently this extension is outdated due dev disappearance, this extension will still work but only partially)*
 Chromium: [https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo](https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo)
 
 Firefox: [https://addons.mozilla.org/en-US/firefox/addon/noptcha](https://addons.mozilla.org/en-US/firefox/addon/noptcha)
@@ -187,7 +188,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtu
 
 > **12) Better YouTube Shorts:**
 
-*(Currently this extension is outdated due youtube internal changes, some stuff will still works others not)*
+*(Currently this extension is outdated due dev disappearance, all features are for now disabled)*
 
 Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg)
 
