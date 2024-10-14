@@ -198,22 +198,25 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts](
 
 
 **TWITCH**
-> **13) Previews (For TTV & YT):**
 
-Chromium: [https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah](https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah)
-
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv](https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv)
-
-*This step will introduce to Twitch and partially Youtube better controls over lives.*
-
-
-> **14) TTV Tools (complementary - optional)**
+> **13) TTV Tools:**
 
 Chromium: [https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd](https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd)
 
 Firefox: NOT AVAILABLE, follow dev [Github](https://github.com/ephellon/twitch-tools)
 
 *This step will introduce to Twitch better controls over Twitch lives.*
+
+*Here some custom settings that you can easily import: 4UNAsC (just click the extension icon, scrool down where there is the imput, add the given code and click download)*
+
+
+> **13) Previews (For TTV & YT) (complementary - optional):**
+
+Chromium: [https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah](https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah)
+
+Firefox: [https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv](https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv)
+
+*This step will introduce to Twitch and partially Youtube better controls over lives.*
 
 
 > **15) TwitchNoSub:**
