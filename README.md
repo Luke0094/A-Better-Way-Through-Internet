@@ -70,6 +70,7 @@ You can downloading it from here (remember to extract): [tampermonkey-backup-chr
 
 <details> 
   <summary>Known bugs: </summary>
+
   - Simple YouTube Age Restriction Bypass will not work for now, no given information, a workaroud can be found following [these instructions](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/issues/255#issuecomment-2439417314)
 
   - Some website that depend from pop ups (usually from Google) may not  work correctly with Ultra Popup Blocker enabled (the pop up warning is half hidden), here a list of what I've found out and how to fix:
