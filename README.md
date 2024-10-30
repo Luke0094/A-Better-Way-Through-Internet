@@ -70,7 +70,9 @@ You can downloading it from here (remember to extract): [tampermonkey-backup-chr
 
 <details> 
   <summary>Known bugs: </summary>
-   Some website that depend from pop ups (usually from Google) may not  work correctly with Ultra Popup Blocker enabled (the pop up warning is half hidden), here a list of what I've found out and how to fix:
+  - Simple YouTube Age Restriction Bypass will not work for now, no given information, a workaroud can be found following [these instructions](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/issues/255#issuecomment-2439417314)
+
+  - Some website that depend from pop ups (usually from Google) may not  work correctly with Ultra Popup Blocker enabled (the pop up warning is half hidden), here a list of what I've found out and how to fix:
   
   The easier solution is to click the tampermoneky icon when you are on the problematic page, click on Ultra Popup Blocker and select "exclude" a certain host, such as:
   
@@ -188,7 +190,7 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtu
 
 > **12) Better YouTube Shorts:**
 
-*(Currently this extension is outdated due dev disappearance, all features are for now disabled)*
+*(Currently the chromium extension is outdated and dev have disappeared, all features are for now disabled due recent Manifest v3 update)*
 
 Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg)
 
