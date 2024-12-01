@@ -62,8 +62,9 @@ Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://a
 
 You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip](https://github.com/user-attachments/files/15901739/tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip)
 
-*This step will import various user scripts such as "Ultra Popup Blocker" and few other useful ones.*
 **warning: last version UPB (4.0) is unstable, don't update it.**
+
+*This step will import various user scripts such as "Ultra Popup Blocker" and few other useful ones.*
 
 *What else is included:*
 
