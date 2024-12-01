@@ -70,6 +70,7 @@ You can downloading it from here (remember to extract): [tampermonkey-backup-chr
 
 <details> 
   <summary>Known bugs: </summary>
+  **warning: last version UPB (4.0) is unstable, don't update it.**
 
   - Simple YouTube Age Restriction Bypass will not work for now, no given information, a workaround  can be found following [these instructions](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/issues/255#issuecomment-2439417314)
 
