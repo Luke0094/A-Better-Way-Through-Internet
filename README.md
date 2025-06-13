@@ -1,291 +1,539 @@
-# A-Better-Way-Through-Internet
-*Internet without harassment by ads company!*
+# 🌐 A Better Way Through Internet
+**Internet without harassment by ads company!**
 
+[![Version](https://img.shields.io/badge/Version-4.2-blue.svg)](https://github.com/Luke0094/A-Better-Way-Through-Internet)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Browser Support](https://img.shields.io/badge/Support-Chrome%2C%20Firefox%2C%20Brave-orange.svg)](README.md)
 
-This is the version **4.2** and probably final tutorial that will create a safe navigation with no ads, privacy focus and no annoying stuff like cookies warning, it will include some part of the older tuto but lighter in ram consumption and with some more filters.
+## 📖 Introduction
 
-> **0) Install your favorite Chromium browser (like Brave, Ungoogled, Chrome, Vivaldi, etc.) or Firefox.**
+This is **version 4.2** and probably the final tutorial that will create a safe navigation with no ads, privacy focus and no annoying stuff like cookies warning. It will include some parts of the older tutorial but lighter in RAM consumption and with some more filters.
 
-(I recommend [Brave Beta](https://brave.com/download-beta/), if you do so under settings/protection set the fingerprint to strict (this choice is no longer available), eventually if you are not getting access to some websites you can always disable a specific one by clicking the orange lion head on the right of the url search bar,
-under settings/privacy you can also disable some annoyance feature like anonym stats.
+> 💡 **Guide Objective:** Create a clean, secure and privacy-respecting browsing experience through strategic use of browser extensions and optimized configurations.
 
-If you wish to use Android you may want to use [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser), check for apk if is not available, for Android TV you most probably will need a usb mouse.)
+### 🎯 **What You'll Get:**
+- ✅ **Complete ad and popup blocking** 
+- ✅ **Advanced privacy protection** and anti-tracking
+- ✅ **Faster browsing** thanks to reduced content loading
+- ✅ **Enhanced user experience** on all major websites
+- ✅ **Increased security** against malware and trackers
 
-Other than all the below steps will be a good point to block any 3rd party cookies from your browser (check your settings and search for Privacy and Security) and block any connection that not come with https.
+---
 
-Furthermore I can recommend you to use [https://presearch.com](https://presearch.com/)  as your default search engine Instead of Google due better uncensored searches (you don't need to sign up), 
+## 📋 Table of Contents
 
-here you can find the "url query": https://presearch.com/search?q=%s
+<details>
+<summary>🎯 <strong>Initial Setup</strong></summary>
 
-Alternatively you can use a search engine based on SearXNG like [https://etsi.me](https://etsi.me) and here the "ulr query": https://etsi.me/search?q=%s
+- [0️⃣ Browser Choice](#0️⃣-browser-choice)
+- [🔧 Privacy Configurations](#🔧-privacy-configurations)
+- [🌐 Alternative Search Engines](#🌐-alternative-search-engines)
+- [🔒 DNS and Security](#🔒-dns-and-security)
 
-Lastly if you still want to use your Google account (chrome, yt, drive, etc.) make sure to check the following link and disable everything you are not comfortable with:
-[https://myaccount.google.com/data-and-privacy](https://myaccount.google.com/data-and-privacy)
-
-Same goes with Amazon services:
-[https://www.amazon.com/alexa-privacy/apd/myad](https://www.amazon.com/alexa-privacy/apd/myad)
-
-If you live in the EU make sure also to check those:
-[https://www.youronlinechoices.com](https://www.youronlinechoices.com)
-
-
-*Btw do you know that your ISP can prevent you from visiting certain websites by blacklisting? To avoid this block you need to change your DNS, this can be done manually or by using some softwares, here is one exemple with DNS Jumper [DnsJumper 2.2.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13196421/DnsJumper.2.2.zip)*
-
-
-
-> **1) Install AdGuard:**
-
-Chromium: [https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
-
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker)
-
-*This step will add one of the best adblocker around to your searches.*
-
-1.5) Once installed go to the option by clicking the green shield icon in your extension bar (make sure is visible) and click "Import settings" (General Settings) and add the attachment below (adg_ext...).
-
-You can downloading it from here (remember to extract): [20240619_152432_adg_ext_settings_4.3.53.zip](https://github.com/user-attachments/files/15901576/20240619_152432_adg_ext_settings_4.3.53.zip)
-
-
-
-*This step will import custom settings and filters.*
-
-
-> **2) Install Tampermoneky:**
-
-Chromium: [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey)
-
-*This step will will allow you to install custom scripts to your browser.*
-
-2.5) Same as before click the black/gray icon in your extension bar (make sure it is visible), click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
-
-You can downloading it from here (remember to extract): [tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip](https://github.com/user-attachments/files/15901739/tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip)
-
-__warning: last version UPB (4.0) is unstable, don't update it.__
-
-*This step will import various user scripts such as "Ultra Popup Blocker" and few other useful ones.*
-
-*What else is included:*
-
-*ADGaurd Extra - Bypass All Shortlinks Debloated - KAADIVVVV - vvvvid.it Anti-Adblock Killer - Netflix Plus (disabled) - Netflix UHD (disabled) - Simple YouTube Age Restriction Bypass*
-
-<details> 
-  <summary>Known bugs: </summary>
-
-  - Simple YouTube Age Restriction Bypass will not work for now, no given information, a workaround  can be found following [these instructions](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/issues/255#issuecomment-2439417314)
-
-  - Some website that depend from pop ups (usually from Google) may not  work correctly with Ultra Popup Blocker enabled (the pop up warning is half hidden), here a list of what I've found out and how to fix:
-  
-  The easier solution is to click the tampermoneky icon when you are on the problematic page, click on Ultra Popup Blocker and select "exclude" a certain host, such as:
-  
-Google Drive: "exclude drive.google.com"
-
-Google Classroom: "exclude classroom.google.com"
-
-Google Remote Desktop "exclude remotedesktop.google.com"
-
-Any coupon websites that will input pop ups before showing the code, the extension is actually working fine here but you might want to just refresh the page there, otherwise your cookies will be injected with ref codes
 </details>
 
-> **3) Install Privacy Badger**
+<details>
+<summary>🛡️ <strong>Essential Extensions</strong></summary>
 
-Chromium: [https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+- [1️⃣ AdGuard - Ad Blocking](#1️⃣-adguard---ad-blocking)
+- [2️⃣ Tampermonkey - Custom Scripts](#2️⃣-tampermonkey---custom-scripts)
+- [3️⃣ Privacy Badger - Anti-Tracking](#3️⃣-privacy-badger---anti-tracking)
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+</details>
 
-**NOTE: login with social credentials (google, apple, etc.) are automatically blocked by this extension, if you wish to enable it, while in that specific page (like twitter), click on the extension icon (the skunk one) and allow the specific host (like "accounts.google.com").**
+<details>
+<summary>⚡ <strong>Optional Extensions</strong></summary>
 
-*This step will increase your rate of blocked trackers, is a bit redundant with AdGuard but other then blocking few more trackers it will be useful if for whatever reason you have to disable your adblocker.*
+- [💰 Bypass Paywalls](#💰-bypass-paywalls)
+- [🌙 Dark Mode](#🌙-dark-mode)
+- [🤖 Automatic CAPTCHA](#🤖-automatic-captcha)
+- [🔐 Free VPN](#🔐-free-vpn)
 
+</details>
 
-All the steps below are totally optional but recommended for a better experience.
--
+<details>
+<summary>📺 <strong>YouTube & Streaming</strong></summary>
 
-**Paywalls**
-> **4) Bypass Paywalls Clean:**
+- [🎬 YouTube Extensions](#🎬-youtube-extensions)
+- [📺 Twitch Tools](#📺-twitch-tools)
+- [📱 Instagram Controls](#📱-instagram-controls)
+- [🎮 Gaming Platforms](#🎮-gaming-platforms)
+- [🎭 Flash Player Support](#🎭-flash-player-support)
 
-*(This step is marked as optional due filters already included inside the AdGuard config, it will however be useful in case you want to have the full list and/or add custom filters)*
+</details>
 
-Chromium: [https://github.com/bpc-clone/bpc_updates/releases/tag/latest](https://github.com/bpc-clone/bpc_updates/releases/tag/latest)
+---
 
-To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page
+## 🎯 Initial Setup
 
-Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) for updates
+### 0️⃣ Browser Choice
 
-Firefox: follow the instruction under their [Github](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) page
+> **Recommended Browsers:**
 
-*This step will grant you the ability to skip certain paywalls based on daily views limit and/or similar issues.*
+| Browser | Description | Link |
+|---------|-------------|------|
+| 🦁 **Brave Beta** | **Recommended** - More secure, strict fingerprinting | [⬇️ Download](https://brave.com/download-beta/) |
+| 🔧 **Ungoogled Chromium** | Chromium without Google | [⬇️ Download](https://ungoogled-software.github.io/) |
+| 🦊 **Firefox** | Open source, privacy focused | [⬇️ Download](https://firefox.com/) |
+| 🌐 **Chrome/Vivaldi** | Full extension support | Available in official stores |
+| 🥝 **Kiwi Browser** | For Android with extension support | [⬇️ Download](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) |
 
+<details>
+<summary><strong>📱 Brave Beta Configuration (Recommended)</strong></summary>
 
-**Dark Mode**
-> **5) Dark Reader:**
+If you choose **Brave Beta** (highly recommended):
 
-Chromium: [https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+1. **Settings → Protection:**
+   - Set fingerprint to "Strict" *(note: this choice is no longer available)*
+   - If you're not getting access to some websites, you can always disable a specific one by clicking the orange lion head 🦁 on the right of the URL search bar
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/darkreader](https://addons.mozilla.org/en-US/firefox/addon/darkreader)
+2. **Settings → Privacy:**
+   - You can also disable some annoyance features like anonymous stats
 
-*This step will grant you the ability to set every website to a dark mode, please note that not all website will be showing correctly.*
+**For Android TV:** You most probably will need a USB mouse for optimal navigation.
 
+**Note:** Check for APK if Kiwi Browser is not available in your region.
 
-**CAPTCHA:**
-> **6) Noptcha:**
+</details>
 
-*(Currently this extension is outdated due dev disappearance, this extension will still work but only partially)*
-Chromium: [https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo](https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo)
+### 🔧 Privacy Configurations
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/noptcha](https://addons.mozilla.org/en-US/firefox/addon/noptcha)
+<details>
+<summary><strong>⚙️ Essential Browser Settings</strong></summary>
 
-*This step will grant you the ability to auto-complete the captcha around the net automatically, you can cutomize the behavior under the extension options.*
+**Mandatory configurations for all browsers:**
+- ✅ **Block third-party cookies** (Privacy and Security → Cookies)
+- ✅ **Force HTTPS connections** (Security → Secure connections)
+- ✅ **Disable fingerprinting** when possible
+- ✅ **Block trackers and ads** natively
 
+**Important point:** These configurations are fundamental for secure browsing and should be applied regardless of the browser chosen. All the steps below will be a good point to block any 3rd party cookies from your browser (check your settings and search for Privacy and Security) and block any connection that does not come with HTTPS.
 
-**VPN:**
-> **7) WorkingVPN:**
+</details>
 
-Chromium: [https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/mhngpdlhojliikfknhfaglpnddniijfh](https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/mhngpdlhojliikfknhfaglpnddniijfh)
+### 🌐 Alternative Search Engines
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/](https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/)
+> **Strong recommendation:** Replace Google with more privacy-respecting alternatives for uncensored searches.
 
-*This step will permit you to use a free vpn service without limit, take note that this is not the fastest nor the most secure but will work.*
+<details>
+<summary><strong>🔍 Recommended Search Engines</strong></summary>
 
+| Engine | Features | URL Query | Registration |
+|--------|----------|-----------|--------------|
+| 🔍 **Presearch** | **Recommended** - Uncensored searches | `https://presearch.com/search?q=%s` | Not necessary |
+| 🔎 **SearXNG (ETSI)** | Open source, completely private | `https://etsi.me/search?q=%s` | Not required |
 
-**YOUTUBE**
-> **8) SponsorBlock for Youtube:**
+**How to change search engine:**
+1. Go to browser settings
+2. Look for "Search Engine" 
+3. Add new custom search engine
+4. Paste the URL query of chosen engine
+5. Set as default
 
-Chromium: [https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
+Furthermore, I can recommend you to use [https://presearch.com](https://presearch.com) as your default search engine instead of Google due to better uncensored searches (you don't need to sign up).
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/sponsorblock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock)
+</details>
 
-*This step will flag portions of certain YT videos with sponsor materials and grand you the ability to skip them automatically.*
+### 🔒 DNS and Security
 
+> **Did you know?** Your ISP can prevent you from visiting certain websites by blacklisting. To avoid this block you need to change your DNS, this can be done manually or by using some software.
 
-> **9) Return YouTube Dislike:**
+**DNS Jumper - Recommended Tool:** [⬇️ Download](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13196421/DnsJumper.2.2.zip)
 
-Chromium: [https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
+<details>
+<summary><strong>🔐 Privacy Settings - Essential Links</strong></summary>
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes)
+**Essential configurations for services you already use:**
 
-*This step will restore the count of dislike on YT videos.*
+| Service | Description | Link | Importance |
+|---------|-------------|------|------------|
+| 🗂️ **Google Privacy** | Disable all Google tracking | [⚙️ Configure](https://myaccount.google.com/data-and-privacy) | 🔴 Critical |
+| 📦 **Amazon Privacy** | Alexa/Amazon settings | [⚙️ Configure](https://www.amazon.com/alexa-privacy/apd/myad) | 🟡 Important |
+| 🇪🇺 **EU Privacy** | Personalized advertising control EU | [⚙️ Configure](https://www.youronlinechoices.com) | 🟡 EU Only |
 
+**Important:** If you still want to use your Google account (Chrome, YouTube, Drive, etc.) make sure to check the following link and disable everything you are not comfortable with. Same goes with Amazon services.
 
-> **10) Install Enhancer for YouTube:**
+**If you live in the EU** make sure also to check the EU Privacy link above.
 
-Chromium: [https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)
+</details>
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube)
+---
 
-*This step will introduce to Youtube various extra option of customization.*
+## 🛡️ Essential Extensions
 
-*Here some custom settings that you can easily import (just copy and paste the string inside the .txt file and import it in the extension page)* [yt.enhancer.zip](https://github.com/user-attachments/files/16383966/yt.enhancer.zip)
+### 1️⃣ AdGuard - Ad Blocking
 
+> **One of the best adblockers around**
 
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker) |
 
-> **11) Ambient light for YouTube:**
+<details>
+<summary><strong>📂 AdGuard Configuration</strong></summary>
 
-Chromium: [https://chrome.google.com/webstore/detail/ambient-light-for-youtube/paponcgjfojgemddooebbgniglhkajkj](https://chrome.google.com/webstore/detail/ambient-light-for-youtube/paponcgjfojgemddooebbgniglhkajkj)
+**This step will add one of the best adblockers around to your searches.**
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtube](https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtube)
+**Configuration Steps:**
+1. Once installed go to the options by clicking the green shield icon 🛡️ in your extension bar (make sure it's visible)
+2. Click "Import settings" (General Settings)
+3. Add the attachment below: [⬇️ Download Settings](https://github.com/user-attachments/files/15901576/20240619_152432_adg_ext_settings_4.3.53.zip)
 
-*This step will introduce to Youtube better theater mode and ambient light.*
+**This step will import custom settings and filters.**
 
-*Here some custom settings that you can easily import (after excracting just click the extension icon and import the .json file)* [ambient-light-for-youtube-settings.zip](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492685/ambient-light-for-youtube-settings.zip)
+*Remember to extract the ZIP file before importing.*
 
+</details>
 
-> **12) Better YouTube Shorts:**
+### 2️⃣ Tampermonkey - Custom Scripts
 
-*(Currently the chromium extension is outdated and dev have disappeared, all features are for now disabled due recent Manifest v3 update)*
+> **Allows installation of custom scripts to your browser**
 
-Chromium: [https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg)
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey) |
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts](https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts)
+<details>
+<summary><strong>📂 Tampermonkey Configuration</strong></summary>
 
-*This step will introduce to Youtube better controls over YT short.*
+**Configuration Steps:**
+1. Same as before, click the black/gray icon ⚫ in your extension bar (make sure it is visible)
+2. Click "Control panel" and go to "Utility"
+3. Click "Import" and add the attachment below: [⬇️ Download Backup](https://github.com/user-attachments/files/15901739/tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip)
 
+**⚠️ Warning:** Last version UPB (4.0) is unstable, don't update it.
 
-**TWITCH**
+**This step will import various user scripts such as "Ultra Popup Blocker" and few other useful ones.**
 
-> **13) TTV Tools:**
+**What else is included:**
+- ✅ AdGuard Extra
+- ✅ Bypass All Shortlinks Debloated
+- ✅ KAADIVVVV - vvvvid.it Anti-Adblock Killer
+- ✅ Netflix Plus (disabled)
+- ✅ Netflix UHD (disabled)
+- ✅ Simple YouTube Age Restriction Bypass
 
-Chromium: [https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd](https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd)
+*Remember to extract the ZIP file before importing.*
 
-Firefox: NOT AVAILABLE, follow dev [Github](https://github.com/ephellon/twitch-tools)
+</details>
 
-*This step will introduce to Twitch better controls over Twitch lives.*
+<details>
+<summary><strong>⚠️ Known Bugs and Solutions</strong></summary>
 
-*Here some custom settings that you can easily import: 4UNAsC (just click the extension icon, scrool down where there is the imput, add the given code and click download)*
+**Known Issues:**
 
+**Simple YouTube Age Restriction Bypass** will not work for now, no given information, a workaround can be found following [these instructions](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/issues/255#issuecomment-2439417314)
 
-> **13) Previews (For TTV & YT) (complementary - optional):**
+**Ultra Popup Blocker Issues:** Some websites that depend on pop-ups (usually from Google) may not work correctly with Ultra Popup Blocker enabled (the pop-up warning is half hidden). Here's a list of what I've found out and how to fix:
 
-Chromium: [https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah](https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah)
+The easier solution is to click the Tampermonkey icon when you are on the problematic page, click on Ultra Popup Blocker and select "exclude" a certain host, such as:
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv](https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv)
+- **Google Drive:** "exclude drive.google.com"
+- **Google Classroom:** "exclude classroom.google.com"
+- **Google Remote Desktop:** "exclude remotedesktop.google.com"
+- **Coupon websites:** Any coupon websites that will input pop-ups before showing the code, the extension is actually working fine here but you might want to just refresh the page there, otherwise your cookies will be injected with ref codes
 
-*This step will introduce to Twitch and partially Youtube better controls over lives.*
+</details>
 
+### 3️⃣ Privacy Badger - Anti-Tracking
 
-> **15) TwitchNoSub:**
+> **Increases your rate of blocked trackers**
 
-Chromium: [https://github.com/besuper/TwitchNoSub/releases](https://github.com/besuper/TwitchNoSub/releases)
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) |
 
-To install this extension on chromium browser manually you have first enable the developer options in the extension and then unpack the .zip file with softwares like winrar or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page.
+<details>
+<summary><strong>ℹ️ Important Note</strong></summary>
 
-Firefox: follow the instruction under their [Github](https://github.com/besuper/TwitchNoSub/)
+**This step will increase your rate of blocked trackers, is a bit redundant with AdGuard but other than blocking few more trackers it will be useful if for whatever reason you have to disable your adblocker.**
 
-*This step will make you able to watch premium vod from twitch as free user.*
+**⚠️ NOTE:** Login with social credentials (Google, Apple, etc.) are automatically blocked by this extension. If you wish to enable it, while in that specific page (like Twitter), click on the extension icon (the skunk one 🦨) and allow the specific host (like "accounts.google.com").
 
-Note: unpacked extension not have the ability to auto-update themself, once in a while check their [Github](https://github.com/besuper/TwitchNoSub/) for updates.
+</details>
 
+---
 
-**INSTAGRAM**
-> **16) Controls for Instagram Videos:**
+## ⚡ Optional Extensions
 
-Chromium: [https://chrome.google.com/webstore/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn](https://chrome.google.com/webstore/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn)
+> **All the steps below are totally optional but recommended for a better experience.**
 
-Firefox: NOT AVAILABLE, follow dev [website](https://rehfeld.us/browser-extensions/controls-for-instagram/)
+### 💰 Bypass Paywalls
 
-*This step will introduce to Instagram better controls over reels.*
+<details>
+<summary><strong>Bypass Paywalls Clean</strong></summary>
 
+*This step is marked as optional due to filters already included inside the AdGuard config, it will however be useful in case you want to have the full list and/or add custom filters.*
 
-**STEAM**
-> **17) Augmented Steam:**
+| Browser | Installation |
+|---------|---------------|
+| 🌐 Chromium | [📥 Manual Download](https://github.com/bpc-clone/bpc_updates/releases/tag/latest) |
+| 🦊 Firefox | [📖 Instructions](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) |
 
-Chromium: [https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp](https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp)
+**Chromium Installation:**
+To install this extension on Chromium browser manually you have to first enable the developer options in the extension and then unpack the .zip file with software like WinRAR or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page.
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/augmented-steam](https://addons.mozilla.org/en-US/firefox/addon/augmented-steam)
+**Note:** Unpacked extensions do not have the ability to auto-update themselves, once in a while check their [GitHub](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) for updates.
 
-*This step will introduce to Steam more features about bundles and currency over the world.*
+**This step will grant you the ability to skip certain paywalls based on daily views limit and/or similar issues.**
 
+</details>
 
-> **18) Steam Inventory Helper:**
+### 🌙 Dark Mode
 
-**WARNING:** *The chrome extension is requiring way too much auth to work, probably has been breached*
+<details>
+<summary><strong>Dark Reader</strong></summary>
 
-Chromium: *removed due suspicious behavior*
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/darkreader) |
 
-Firefox: NOT AVAILABLE, follow dev [website](https://steaminventoryhelper.com/)
+**This step will grant you the ability to set every website to a dark mode, please note that not all websites will be showing correctly.**
+
+</details>
+
+### 🤖 Automatic CAPTCHA
+
+<details>
+<summary><strong>Noptcha (Partially Working)</strong></summary>
+
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/noptcha) |
+
+*Currently this extension is outdated due to dev disappearance, this extension will still work but only partially.*
+
+**This step will grant you the ability to auto-complete the CAPTCHA around the net automatically, you can customize the behavior under the extension options.**
+
+</details>
+
+### 🔐 Free VPN
+
+<details>
+<summary><strong>WorkingVPN</strong></summary>
+
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/mhngpdlhojliikfknhfaglpnddniijfh) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/) |
+
+**This step will permit you to use a free VPN service without limit, take note that this is not the fastest nor the most secure but will work.**
+
+</details>
+
+---
+
+## 📺 YouTube & Streaming
+
+### 🎬 YouTube Extensions
+
+<details>
+<summary><strong>SponsorBlock for YouTube - Skip Sponsors</strong></summary>
+
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock) |
+
+**This step will flag portions of certain YouTube videos with sponsor materials and grant you the ability to skip them automatically.**
+
+</details>
+
+<details>
+<summary><strong>Return YouTube Dislike</strong></summary>
+
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes) |
+
+**This step will restore the count of dislikes on YouTube videos.**
+
+</details>
+
+<details>
+<summary><strong>Enhancer for YouTube</strong></summary>
+
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube) |
+
+**This step will introduce to YouTube various extra options of customization.**
+
+**Custom Settings:** Here some custom settings that you can easily import (just copy and paste the string inside the .txt file and import it in the extension page): [⬇️ Download Settings](https://github.com/user-attachments/files/16383966/yt.enhancer.zip)
+
+</details>
+
+<details>
+<summary><strong>Ambient Light for YouTube</strong></summary>
+
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/ambient-light-for-youtube/paponcgjfojgemddooebbgniglhkajkj) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtube) |
+
+**This step will introduce to YouTube better theater mode and ambient light.**
+
+**Custom Settings:** Here some custom settings that you can easily import (after extracting just click the extension icon and import the .json file): [⬇️ Download Settings](https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492685/ambient-light-for-youtube-settings.zip)
+
+</details>
+
+<details>
+<summary><strong>Better YouTube Shorts</strong></summary>
+
+| Browser | Installation Link | Status |
+|---------|-------------------|--------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg) | ⚠️ Outdated |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts) | ✅ Working |
+
+*Currently the Chromium extension is outdated and dev has disappeared, all features are for now disabled due to recent Manifest v3 update.*
+
+**This step will introduce to YouTube better controls over YouTube Shorts.**
+
+</details>
+
+### 📺 Twitch Tools
+
+<details>
+<summary><strong>TTV Tools</strong></summary>
+
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd) |
+| 🦊 Firefox | [📖 GitHub](https://github.com/ephellon/twitch-tools) |
+
+**This step will introduce to Twitch better controls over Twitch lives.**
+
+**Custom Settings:** Here some custom settings that you can easily import: **4UNAsC** (just click the extension icon, scroll down where there is the input, add the given code and click download)
+
+</details>
+
+<details>
+<summary><strong>Previews for TTV & YT (Complementary - Optional)</strong></summary>
+
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv) |
+
+**This step will introduce to Twitch and partially YouTube better controls over lives.**
+
+</details>
+
+<details>
+<summary><strong>TwitchNoSub</strong></summary>
+
+| Browser | Installation |
+|---------|---------------|
+| 🌐 Chromium | [📥 Manual Download](https://github.com/besuper/TwitchNoSub/releases) |
+| 🦊 Firefox | [📖 Instructions](https://github.com/besuper/TwitchNoSub/) |
+
+To install this extension on Chromium browser manually you have to first enable the developer options in the extension and then unpack the .zip file with software like WinRAR or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page.
+
+**Note:** Unpacked extensions do not have the ability to auto-update themselves, once in a while check their [GitHub](https://github.com/besuper/TwitchNoSub/) for updates.
+
+**This step will make you able to watch premium VOD from Twitch as free user.**
+
+</details>
+
+### 📱 Instagram Controls
+
+<details>
+<summary><strong>Controls for Instagram Videos</strong></summary>
+
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn) |
+| 🦊 Firefox | [📖 Website](https://rehfeld.us/browser-extensions/controls-for-instagram/) |
+
+**This step will introduce to Instagram better controls over reels.**
+
+</details>
+
+### 🎮 Gaming Platforms
+
+<details>
+<summary><strong>Steam Tools</strong></summary>
+
+**Augmented Steam:**
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/augmented-steam) |
+
+**This step will introduce to Steam more features about bundles and currency over the world.**
+
+**Steam Inventory Helper:**
+> ⚠️ **WARNING:** The Chrome extension is requiring way too much auth to work, probably has been breached.
+
+- **Chromium:** *Removed due to suspicious behavior*
+- **Firefox:** NOT AVAILABLE, follow dev [website](https://steaminventoryhelper.com/)
 
 *This step will introduce to Steam more features about trades and currency.*
 
+</details>
 
-**CRUNCHYROLL**
-> **19) Improve Crunchyroll:**
+<details>
+<summary><strong>Crunchyroll Enhancement</strong></summary>
 
-Chromium: [https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
+**Improve Crunchyroll:**
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll) |
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll)
+**This step will introduce to Crunchyroll various extra options of customization and unlock some of premium features like 1080p view.**
 
-*This step will introduce to Crunchyroll various extra option of customization and unlock some of premium features like 1080p view.*
+</details>
 
+### 🎭 Flash Player Support
 
-**FLASH PLAYER**
-> **20) Rufle:**
+<details>
+<summary><strong>Ruffle - Flash Emulator</strong></summary>
 
-Chromium: [https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc](https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc)
+| Browser | Installation Link |
+|---------|-------------------|
+| 🌐 Chromium | [📥 Install](https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc) |
+| 🦊 Firefox | [📥 Install](https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs) |
 
-Firefox: [https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs](https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs)
+**This step will restore the possibility to play flash content on your browser.**
 
-*This step will restore the possibility to play flash content on your browser.*
+</details>
 
+---
 
-***Enjoy the freedom of internet!***
+## 🎉 Conclusion
+
+Following this guide you will have a completely configured browser for:
+
+- ✅ **No advertisements** - Complete blocking of ads and popups
+- ✅ **Protected privacy** - No tracking
+- ✅ **Enhanced experience** - Extra functionality for all sites
+- ✅ **High security** - Protection from malware and trackers
+
+---
+
+## 🆘 Support
+
+Found a problem or have suggestions? 
+
+- 🐛 [Report a Bug](https://github.com/Luke0094/A-Better-Way-Through-Internet/issues)
+- 💡 [Request a Feature](https://github.com/Luke0094/A-Better-Way-Through-Internet/discussions)
+- ⭐ [Leave a Star](https://github.com/Luke0094/A-Better-Way-Through-Internet)
+
+---
+
+<div align="center">
+
+**🌟 Enjoy the freedom of internet! 🌟**
+
+[![GitHub stars](https://img.shields.io/github/stars/Luke0094/A-Better-Way-Through-Internet.svg?style=social&label=Star)](https://github.com/Luke0094/A-Better-Way-Through-Internet)
+[![GitHub forks](https://img.shields.io/github/forks/Luke0094/A-Better-Way-Through-Internet.svg?style=social&label=Fork)](https://github.com/Luke0094/A-Better-Way-Through-Internet/fork)
+
+</div>
