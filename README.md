@@ -71,17 +71,17 @@ This is **version 4.2** and probably the final tutorial that will create a safe 
 <tr>
 <td>🦁 <strong>Brave Beta</strong></td>
 <td><strong>Recommended</strong> - More secure, strict fingerprinting</td>
-<td><a href="https://brave.com/download-beta/" target="_blank">⬇️ Download</a></td>
+<td><a href="https://brave.com/download-beta/" target="_blank" rel="noopener noreferrer">⬇️ Download</a></td>
 </tr>
 <tr>
 <td>🔧 <strong>Ungoogled Chromium</strong></td>
 <td>Chromium without Google</td>
-<td><a href="https://ungoogled-software.github.io/" target="_blank">⬇️ Download</a></td>
+<td><a href="https://ungoogled-software.github.io/" target="_blank" rel="noopener noreferrer">⬇️ Download</a></td>
 </tr>
 <tr>
 <td>🦊 <strong>Firefox</strong></td>
 <td>Open source, privacy focused</td>
-<td><a href="https://firefox.com/" target="_blank">⬇️ Download</a></td>
+<td><a href="https://firefox.com/" target="_blank" rel="noopener noreferrer">⬇️ Download</a></td>
 </tr>
 <tr>
 <td>🌐 <strong>Chrome/Vivaldi</strong></td>
@@ -91,7 +91,7 @@ This is **version 4.2** and probably the final tutorial that will create a safe 
 <tr>
 <td>🥝 <strong>Kiwi Browser</strong></td>
 <td>For Android with extension support</td>
-<td><a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser" target="_blank">⬇️ Download</a></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser" target="_blank" rel="noopener noreferrer">⬇️ Download</a></td>
 </tr>
 </tbody>
 </table>
@@ -168,7 +168,7 @@ If you choose **Brave Beta** (highly recommended):
 4. Paste the URL query of chosen engine
 5. Set as default
 
-Furthermore, I can recommend you to use <a href="https://presearch.com" target="_blank">presearch.com</a> as your default search engine instead of Google due to better uncensored searches (you don't need to sign up).
+Furthermore, I can recommend you to use <a href="https://presearch.com" target="_blank" rel="noopener noreferrer">presearch.com</a> as your default search engine instead of Google due to better uncensored searches (you don't need to sign up).
 
 </details>
 
@@ -176,7 +176,7 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 
 > **Did you know?** Your ISP can prevent you from visiting certain websites by blacklisting. To avoid this block you need to change your DNS, this can be done manually or by using some software.
 
-**DNS Jumper - Recommended Tool:** <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13196421/DnsJumper.2.2.zip" target="_blank">⬇️ Download</a>
+**DNS Jumper - Recommended Tool:** <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13196421/DnsJumper.2.2.zip" target="_blank" rel="noopener noreferrer">⬇️ Download</a>
 
 <details>
 <summary><strong>🔐 Privacy Settings - Essential Links</strong></summary>
@@ -196,19 +196,19 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 <tr>
 <td>🗂️ <strong>Google Privacy</strong></td>
 <td>Disable all Google tracking</td>
-<td><a href="https://myaccount.google.com/data-and-privacy" target="_blank">⚙️ Configure</a></td>
+<td><a href="https://myaccount.google.com/data-and-privacy" target="_blank" rel="noopener noreferrer">⚙️ Configure</a></td>
 <td>🔴 Critical</td>
 </tr>
 <tr>
 <td>📦 <strong>Amazon Privacy</strong></td>
 <td>Alexa/Amazon settings</td>
-<td><a href="https://www.amazon.com/alexa-privacy/apd/myad" target="_blank">⚙️ Configure</a></td>
+<td><a href="https://www.amazon.com/alexa-privacy/apd/myad" target="_blank" rel="noopener noreferrer">⚙️ Configure</a></td>
 <td>🟡 Important</td>
 </tr>
 <tr>
 <td>🇪🇺 <strong>EU Privacy</strong></td>
 <td>Personalized advertising control EU</td>
-<td><a href="https://www.youronlinechoices.com" target="_blank">⚙️ Configure</a></td>
+<td><a href="https://www.youronlinechoices.com" target="_blank" rel="noopener noreferrer">⚙️ Configure</a></td>
 <td>🟡 EU Only</td>
 </tr>
 </tbody>
@@ -238,11 +238,11 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -255,7 +255,7 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 **Configuration Steps:**
 1. Once installed go to the options by clicking the green shield icon 🛡️ in your extension bar (make sure it's visible)
 2. Click "Import settings" (General Settings)
-3. Add the attachment below: <a href="https://github.com/user-attachments/files/15901576/20240619_152432_adg_ext_settings_4.3.53.zip" target="_blank">⬇️ Download Settings</a>
+3. Add the attachment below: <a href="https://github.com/user-attachments/files/15901576/20240619_152432_adg_ext_settings_4.3.53.zip" target="_blank" rel="noopener noreferrer">⬇️ Download Settings</a>
 
 **This step will import custom settings and filters.**
 
@@ -277,11 +277,11 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -292,7 +292,7 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 **Configuration Steps:**
 1. Same as before, click the black/gray icon ⚫ in your extension bar (make sure it is visible)
 2. Click "Control panel" and go to "Utility"
-3. Click "Import" and add the attachment below: <a href="https://github.com/user-attachments/files/15901739/tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip" target="_blank">⬇️ Download Backup</a>
+3. Click "Import" and add the attachment below: <a href="https://github.com/user-attachments/files/15901739/tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip" target="_blank" rel="noopener noreferrer">⬇️ Download Backup</a>
 
 **⚠️ Warning:** Last version UPB (4.0) is unstable, don't update it.
 
@@ -315,7 +315,7 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 
 **Known Issues:**
 
-**Simple YouTube Age Restriction Bypass** will not work for now, no given information, a workaround can be found following <a href="https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/issues/255#issuecomment-2439417314" target="_blank">these instructions</a>
+**Simple YouTube Age Restriction Bypass** will not work for now, no given information, a workaround can be found following <a href="https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/issues/255#issuecomment-2439417314" target="_blank" rel="noopener noreferrer">these instructions</a>
 
 **Ultra Popup Blocker Issues:** Some websites that depend on pop-ups (usually from Google) may not work correctly with Ultra Popup Blocker enabled (the pop-up warning is half hidden). Here's a list of what I've found out and how to fix:
 
@@ -342,11 +342,11 @@ The easier solution is to click the Tampermonkey icon when you are on the proble
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -383,11 +383,11 @@ The easier solution is to click the Tampermonkey icon when you are on the proble
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://github.com/bpc-clone/bpc_updates/releases/tag/latest" target="_blank">📥 Manual Download</a></td>
+<td><a href="https://github.com/bpc-clone/bpc_updates/releases/tag/latest" target="_blank" rel="noopener noreferrer">📥 Manual Download</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://github.com/bpc-clone/bypass-paywalls-firefox-clean" target="_blank">📖 Instructions</a></td>
+<td><a href="https://github.com/bpc-clone/bypass-paywalls-firefox-clean" target="_blank" rel="noopener noreferrer">📖 Instructions</a></td>
 </tr>
 </tbody>
 </table>
@@ -395,7 +395,7 @@ The easier solution is to click the Tampermonkey icon when you are on the proble
 **Chromium Installation:**
 To install this extension on Chromium browser manually you have to first enable the developer options in the extension and then unpack the .zip file with software like WinRAR or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page.
 
-**Note:** Unpacked extensions do not have the ability to auto-update themselves, once in a while check their <a href="https://github.com/bpc-clone/bypass-paywalls-chrome-clean" target="_blank">GitHub</a> for updates.
+**Note:** Unpacked extensions do not have the ability to auto-update themselves, once in a while check their <a href="https://github.com/bpc-clone/bypass-paywalls-chrome-clean" target="_blank" rel="noopener noreferrer">GitHub</a> for updates.
 
 **This step will grant you the ability to skip certain paywalls based on daily views limit and/or similar issues.**
 
@@ -416,11 +416,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -444,11 +444,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/noptcha" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/noptcha" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -474,11 +474,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/mhngpdlhojliikfknhfaglpnddniijfh" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/mhngpdlhojliikfknhfaglpnddniijfh" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -506,11 +506,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/sponsorblock" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/sponsorblock" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -532,11 +532,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -558,18 +558,18 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
 
 **This step will introduce to YouTube various extra options of customization.**
 
-**Custom Settings:** Here some custom settings that you can easily import (just copy and paste the string inside the .txt file and import it in the extension page): <a href="https://github.com/user-attachments/files/16383966/yt.enhancer.zip" target="_blank">⬇️ Download Settings</a>
+**Custom Settings:** Here some custom settings that you can easily import (just copy and paste the string inside the .txt file and import it in the extension page): <a href="https://github.com/user-attachments/files/16383966/yt.enhancer.zip" target="_blank" rel="noopener noreferrer">⬇️ Download Settings</a>
 
 </details>
 
@@ -586,18 +586,18 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/ambient-light-for-youtube/paponcgjfojgemddooebbgniglhkajkj" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/ambient-light-for-youtube/paponcgjfojgemddooebbgniglhkajkj" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtube" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/ambient-light-for-youtube" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
 
 **This step will introduce to YouTube better theater mode and ambient light.**
 
-**Custom Settings:** Here some custom settings that you can easily import (after extracting just click the extension icon and import the .json file): <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492685/ambient-light-for-youtube-settings.zip" target="_blank">⬇️ Download Settings</a>
+**Custom Settings:** Here some custom settings that you can easily import (after extracting just click the extension icon and import the .json file): <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13492685/ambient-light-for-youtube-settings.zip" target="_blank" rel="noopener noreferrer">⬇️ Download Settings</a>
 
 </details>
 
@@ -615,12 +615,12 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/better-youtube-shorts/pehohlhkhbcfdneocgnfbnilppmfncdg" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 <td>⚠️ Outdated</td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/better-youtube-shorts" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 <td>✅ Working</td>
 </tr>
 </tbody>
@@ -647,11 +647,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/ttv-tools/fcfodihfdbiiogppbnhabkigcdhkhdjd" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://github.com/ephellon/twitch-tools" target="_blank">📖 GitHub</a></td>
+<td><a href="https://github.com/ephellon/twitch-tools" target="_blank" rel="noopener noreferrer">📖 GitHub</a></td>
 </tr>
 </tbody>
 </table>
@@ -675,11 +675,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/previews-for-ttv-yt/hpmbiinljekjjcjgijnlbmgcmoonclah" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -701,18 +701,18 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://github.com/besuper/TwitchNoSub/releases" target="_blank">📥 Manual Download</a></td>
+<td><a href="https://github.com/besuper/TwitchNoSub/releases" target="_blank" rel="noopener noreferrer">📥 Manual Download</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://github.com/besuper/TwitchNoSub/" target="_blank">📖 Instructions</a></td>
+<td><a href="https://github.com/besuper/TwitchNoSub/" target="_blank" rel="noopener noreferrer">📖 Instructions</a></td>
 </tr>
 </tbody>
 </table>
 
 To install this extension on Chromium browser manually you have to first enable the developer options in the extension and then unpack the .zip file with software like WinRAR or 7zip and click on "load unpacked extension", alternatively you can create a .zip containing only the files (without main folder name) and drag and drop this one in the extension page.
 
-**Note:** Unpacked extensions do not have the ability to auto-update themselves, once in a while check their <a href="https://github.com/besuper/TwitchNoSub/" target="_blank">GitHub</a> for updates.
+**Note:** Unpacked extensions do not have the ability to auto-update themselves, once in a while check their <a href="https://github.com/besuper/TwitchNoSub/" target="_blank" rel="noopener noreferrer">GitHub</a> for updates.
 
 **This step will make you able to watch premium VOD from Twitch as free user.**
 
@@ -733,11 +733,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://rehfeld.us/browser-extensions/controls-for-instagram/" target="_blank">📖 Website</a></td>
+<td><a href="https://rehfeld.us/browser-extensions/controls-for-instagram/" target="_blank" rel="noopener noreferrer">📖 Website</a></td>
 </tr>
 </tbody>
 </table>
@@ -762,11 +762,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/augmented-steam" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/augmented-steam" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -777,7 +777,7 @@ To install this extension on Chromium browser manually you have to first enable 
 > ⚠️ **WARNING:** The Chrome extension is requiring way too much auth to work, probably has been breached.
 
 - **Chromium:** *Removed due to suspicious behavior*
-- **Firefox:** NOT AVAILABLE, follow dev <a href="https://steaminventoryhelper.com/" target="_blank">website</a>
+- **Firefox:** NOT AVAILABLE, follow dev <a href="https://steaminventoryhelper.com/" target="_blank" rel="noopener noreferrer">website</a>
 
 *This step will introduce to Steam more features about trades and currency.*
 
@@ -797,11 +797,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -825,11 +825,11 @@ To install this extension on Chromium browser manually you have to first enable 
 <tbody>
 <tr>
 <td>🌐 Chromium</td>
-<td><a href="https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc" target="_blank">📥 Install</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 <tr>
 <td>🦊 Firefox</td>
-<td><a href="https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs" target="_blank">📥 Install</a></td>
+<td><a href="https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs" target="_blank" rel="noopener noreferrer">📥 Install</a></td>
 </tr>
 </tbody>
 </table>
@@ -855,9 +855,9 @@ Following this guide you will have a completely configured browser for:
 
 Found a problem or have suggestions? 
 
-- 🐛 <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/issues" target="_blank">Report a Bug</a>
-- 💡 <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/discussions" target="_blank">Request a Feature</a>
-- ⭐ <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet" target="_blank">Leave a Star</a>
+- 🐛 <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/issues" target="_blank" rel="noopener noreferrer">Report a Bug</a>
+- 💡 <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/discussions" target="_blank" rel="noopener noreferrer">Request a Feature</a>
+- ⭐ <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet" target="_blank" rel="noopener noreferrer">Leave a Star</a>
 
 ---
 
@@ -865,10 +865,10 @@ Found a problem or have suggestions?
 
 **🌟 Enjoy the freedom of internet! 🌟**
 
-<a href="https://github.com/Luke0094/A-Better-Way-Through-Internet" target="_blank">
+<a href="https://github.com/Luke0094/A-Better-Way-Through-Internet" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/github/stars/Luke0094/A-Better-Way-Through-Internet.svg?style=social&label=Star" alt="GitHub stars">
 </a>
-<a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/fork" target="_blank">
+<a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/fork" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/github/forks/Luke0094/A-Better-Way-Through-Internet.svg?style=social&label=Fork" alt="GitHub forks">
 </a>
 
