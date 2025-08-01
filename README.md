@@ -292,7 +292,7 @@ If you choose **Brave Beta** (highly recommended):
 **Configuration Steps:**
 1. Same as before, click the black/gray icon ⚫ in your extension bar (make sure it is visible)
 2. Click "Control panel" and go to "Utility"
-3. Click "Import" and add the attachment below: <a href="https://github.com/user-attachments/files/21553824/tampermonkey-backup-chrome-2025-08-01T19-43-45-725Z.zip"" target="_blank" rel="noopener noreferrer">⬇️ Download Backup</a>
+3. Click "Import" and add the attachment below: <a href="https://github.com/user-attachments/files/21553824/tampermonkey-backup-chrome-2025-08-01T19-43-45-725Z.zip" target="_blank" rel="noopener noreferrer">⬇️ Download Backup</a>
 
 **This step will import various user scripts such as "AdGuard Popup Blocker (Beta)" and few other useful ones.**
 
