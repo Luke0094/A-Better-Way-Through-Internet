@@ -129,6 +129,48 @@ If you choose **Brave Beta** (highly recommended):
 
 </details>
 
+<details>
+<summary><strong>🔐 Privacy Settings - Essential Links</strong></summary>
+
+**Essential configurations for services you already use:**
+
+<table>
+<thead>
+<tr>
+<th>Service</th>
+<th>Description</th>
+<th>Link</th>
+<th>Importance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🗂️ <strong>Google Privacy</strong></td>
+<td>Disable all Google tracking</td>
+<td><a href="https://myaccount.google.com/data-and-privacy" target="_blank" rel="noopener noreferrer">⚙️ Configure</a></td>
+<td>🔴 Critical</td>
+</tr>
+<tr>
+<td>📦 <strong>Amazon Privacy</strong></td>
+<td>Alexa/Amazon settings</td>
+<td><a href="https://www.amazon.com/alexa-privacy/apd/myad" target="_blank" rel="noopener noreferrer">⚙️ Configure</a></td>
+<td>🟡 Important</td>
+</tr>
+<tr>
+<td>🇪🇺 <strong>EU Privacy</strong></td>
+<td>Personalized advertising control EU</td>
+<td><a href="https://www.youronlinechoices.com" target="_blank" rel="noopener noreferrer">⚙️ Configure</a></td>
+<td>🟡 EU Only</td>
+</tr>
+</tbody>
+</table>
+
+**Important:** If you still want to use your Google account (Chrome, YouTube, Drive, etc.) make sure to check the Google Privacy link above and disable everything you are not comfortable with. Same goes with Amazon services.
+
+**If you live in the EU** make sure also to check the EU Privacy link above.
+
+</details>
+
 ### 🌐 Alternative Search Engines
 
 > **Strong recommendation:** Replace Google with more privacy-respecting alternatives for uncensored searches.
@@ -175,48 +217,6 @@ If you choose **Brave Beta** (highly recommended):
 > **Did you know?** Your ISP can prevent you from visiting certain websites by blacklisting. To avoid this block you need to change your DNS, this can be done manually or by using some software.
 
 **DNS Jumper - Recommended Tool:** <a href="https://github.com/Luke0094/A-Better-Way-Through-Internet/files/13196421/DnsJumper.2.2.zip" target="_blank" rel="noopener noreferrer">⬇️ Download</a>
-
-<details>
-<summary><strong>🔐 Privacy Settings - Essential Links</strong></summary>
-
-**Essential configurations for services you already use:**
-
-<table>
-<thead>
-<tr>
-<th>Service</th>
-<th>Description</th>
-<th>Link</th>
-<th>Importance</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>🗂️ <strong>Google Privacy</strong></td>
-<td>Disable all Google tracking</td>
-<td><a href="https://myaccount.google.com/data-and-privacy" target="_blank" rel="noopener noreferrer">⚙️ Configure</a></td>
-<td>🔴 Critical</td>
-</tr>
-<tr>
-<td>📦 <strong>Amazon Privacy</strong></td>
-<td>Alexa/Amazon settings</td>
-<td><a href="https://www.amazon.com/alexa-privacy/apd/myad" target="_blank" rel="noopener noreferrer">⚙️ Configure</a></td>
-<td>🟡 Important</td>
-</tr>
-<tr>
-<td>🇪🇺 <strong>EU Privacy</strong></td>
-<td>Personalized advertising control EU</td>
-<td><a href="https://www.youronlinechoices.com" target="_blank" rel="noopener noreferrer">⚙️ Configure</a></td>
-<td>🟡 EU Only</td>
-</tr>
-</tbody>
-</table>
-
-**Important:** If you still want to use your Google account (Chrome, YouTube, Drive, etc.) make sure to check the Google Privacy link above and disable everything you are not comfortable with. Same goes with Amazon services.
-
-**If you live in the EU** make sure also to check the EU Privacy link above.
-
-</details>
 
 ---
 
