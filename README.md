@@ -773,9 +773,6 @@ To install this extension on Chromium browser manually you have to first enable 
 **Steam Inventory Helper:**
 > ⚠️ **WARNING:** The Chrome extension is requiring way too much auth to work, probably has been breached.
 
-- **Chromium:** *Removed due to suspicious behavior*
-- **Firefox:** NOT AVAILABLE, follow dev <a href="https://steaminventoryhelper.com/" target="_blank" rel="noopener noreferrer">website</a>
-
 *This step will introduce to Steam more features about trades and currency.*
 
 </details>
