@@ -256,6 +256,7 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 1. Once installed go to the options by clicking the green shield icon 🛡️ in your extension bar (make sure it's visible)
 2. Click "Import settings" (General Settings)
 3. Add the attachment below: <a href="https://github.com/user-attachments/files/15901576/20240619_152432_adg_ext_settings_4.3.53.zip" target="_blank" rel="noopener noreferrer">⬇️ Download Settings</a>
+
 (due a bug you have to do this operation 2 times, otherwside you won't get the correct notification)
 
 **This step will import custom settings and filters.**
