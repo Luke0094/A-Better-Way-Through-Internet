@@ -168,8 +168,6 @@ If you choose **Brave Beta** (highly recommended):
 4. Paste the URL query of chosen engine
 5. Set as default
 
-Furthermore, I can recommend you to use <a href="https://presearch.com" target="_blank" rel="noopener noreferrer">presearch.com</a> as your default search engine instead of Google due to better uncensored searches (you don't need to sign up).
-
 </details>
 
 ### 🔒 DNS and Security
@@ -257,7 +255,7 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 2. Click "Import settings" (General Settings)
 3. Add the attachment below: <a href="https://github.com/user-attachments/files/15901576/20240619_152432_adg_ext_settings_4.3.53.zip" target="_blank" rel="noopener noreferrer">⬇️ Download Settings</a>
 
-(due a bug you have to do this operation 2 times, otherwside you won't get the correct notification)
+(due a bug you have to do this operation 2 times, otherwise you won't get the correct notification)
 
 **This step will import custom settings and filters.**
 
