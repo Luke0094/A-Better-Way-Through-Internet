@@ -125,7 +125,7 @@ If you choose **Brave Beta** (highly recommended):
 - ✅ **Disable fingerprinting** when possible
 - ✅ **Block trackers and ads** natively
 
-**Important point:** These configurations are fundamental for secure browsing and should be applied regardless of the browser chosen. All the steps below will be a good point to block any 3rd party cookies from your browser (check your settings and search for Privacy and Security) and block any connection that does not come with HTTPS.
+**Important point:** These configurations are fundamental for secure browsing and should be applied regardless of the browser chosen.
 
 </details>
 
