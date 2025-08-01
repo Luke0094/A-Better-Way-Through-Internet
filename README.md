@@ -314,15 +314,6 @@ If you choose **Brave Beta** (highly recommended):
 
 **Simple YouTube Age Restriction Bypass** will not work for now, no given information, a workaround can be found following <a href="https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/issues/255#issuecomment-2439417314" target="_blank" rel="noopener noreferrer">these instructions</a>
 
-**Ultra Popup Blocker Issues:** Some websites that depend on pop-ups (usually from Google) may not work correctly with Ultra Popup Blocker enabled (the pop-up warning is half hidden). Here's a list of what I've found out and how to fix:
-
-The easier solution is to click the Tampermonkey icon when you are on the problematic page, click on Ultra Popup Blocker and select "exclude" a certain host, such as:
-
-- **Google Drive:** "exclude drive.google.com"
-- **Google Classroom:** "exclude classroom.google.com"
-- **Google Remote Desktop:** "exclude remotedesktop.google.com"
-- **Coupon websites:** Any coupon websites that will input pop-ups before showing the code, the extension is actually working fine here but you might want to just refresh the page there, otherwise your cookies will be injected with ref codes
-
 </details>
 
 ### 3️⃣ Privacy Badger - Anti-Tracking
