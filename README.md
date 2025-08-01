@@ -292,19 +292,20 @@ Furthermore, I can recommend you to use <a href="https://presearch.com" target="
 **Configuration Steps:**
 1. Same as before, click the black/gray icon ⚫ in your extension bar (make sure it is visible)
 2. Click "Control panel" and go to "Utility"
-3. Click "Import" and add the attachment below: <a href="https://github.com/user-attachments/files/15901739/tampermonkey-backup-chrome-2024-06-19T13-41-26-906Z.zip" target="_blank" rel="noopener noreferrer">⬇️ Download Backup</a>
+3. Click "Import" and add the attachment below: <a href="https://github.com/user-attachments/files/21553824/tampermonkey-backup-chrome-2025-08-01T19-43-45-725Z.zip"" target="_blank" rel="noopener noreferrer">⬇️ Download Backup</a>
 
 **⚠️ Warning:** Last version UPB (4.0) is unstable, don't update it.
 
-**This step will import various user scripts such as "Ultra Popup Blocker" and few other useful ones.**
+**This step will import various user scripts such as "AdGuard Popup Blocker (Beta)" and few other useful ones.**
 
 **What else is included:**
 - ✅ AdGuard Extra
 - ✅ Bypass All Shortlinks Debloated
+- ✅ Disattiva AMP
 - ✅ KAADIVVVV - vvvvid.it Anti-Adblock Killer
 - ✅ Netflix Plus (disabled)
 - ✅ Netflix UHD (disabled)
-- ✅ Simple YouTube Age Restriction Bypass
+- ✅ Simple YouTube Age Restriction Bypass (disabled)
 
 *Remember to extract the ZIP file before importing.*
 
